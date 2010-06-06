@@ -37,7 +37,7 @@ Poglavlje 4: "Programiranja na mašinskom jeziku".
 
 Jarane ...
 
-Ne da sam ja to čitao, ja samo to znao !
+Ne da sam ja to čitao, ja sam to znao !
 
 
 Srednja elektrotehnička škola - Bilmišće Zenica: Bane Savić
@@ -420,11 +420,13 @@ bring.out, linux, opensource
 
 Prije 10-tak godina sam se počeo interesovati za otvorene sisteme. 
 
-Vremenom je koncept "opensource" firme postao mog glavni cilj.
+Vremenom je koncept "opensource"-a postao polazište za sve nove poslove.
 
 To je bio i glavni razlog što sam priliko preseljenja firme u Sarajevo promjenio ime u "bring.out".
 
-bring.out nije još nije "aterirao" na to putu. Nadam se da će taj dan ipak brzo doći.
+http://www.bring.out.ba.
 
-Eto u ovome je uglavnom prošlo mojih 25 informatičkih godina ...
+bring.out nije još nije "aterirao" na to putu. Nadam se da će i taj dan u dogledno vrijeme doći.
+
+Eto, u ovome je uglavnom prošlo mojih 25 informatičkih godina ...
 
