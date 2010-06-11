@@ -42,19 +42,19 @@ Qur'an, lijepa riječ
 
 Sura 14, Ibrahim, 24-26 ajet (prevod Esad Duraković 2004):
 
-> 24. Zar ne vidiš kako Allah primjer navodi: Lijepa riječ drvetu lijepome sliči - dok grane ka nebu izvija, korijen mu stameno stoji;
+> a.24. Zar ne vidiš kako Allah primjer navodi: Lijepa riječ drvetu lijepome sliči - dok grane ka nebu izvija, korijen mu stameno stoji;
 
-> 25. Ono donosi plodova u svako doba, s dopuštenjem Gospodara svoga -
+> a.25. Ono donosi plodova u svako doba, s dopuštenjem Gospodara svoga -
 Allah navodi primjere ljudima da bi došli do nauka.
 
-> 26. A ružna riječ drvetu ružnome sliči: iščupano je iz tla, tako da uopće nema stamenosti.
+> a.26. A ružna riječ drvetu ružnome sliči: iščupano je iz tla, tako da uopće nema stamenosti.
 
-Umjeren govor
-==============
+Qur'an, Umjeren govor
+======================
 
 Sura 31, Luqman. 19 ajet:
 
-19. U hodu odmjeren budi i glas svoj spusti, jer nesumnjivo je glas magarca najružniji!
+> a.19. U hodu odmjeren budi i glas svoj spusti, jer nesumnjivo je glas magarca najružniji!
 
 Istinu je rekao Uzvišeni Allah.
 
