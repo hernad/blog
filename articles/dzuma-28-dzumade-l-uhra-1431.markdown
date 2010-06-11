@@ -67,4 +67,4 @@ Kontroliši svoj govor: ne deri se !
 
 Ja se često zaboravim pa ljudima vikom nastojim svoje stavove ili nezadovoljstvo izraziti.
 
-A to fakat ničem dobrom ne vodi.
+A to fakat ničem dobrom ni korisnom ne vodi.
