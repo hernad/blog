@@ -1,7 +1,7 @@
 Džuma u šorcu
 ==============
 
-Date: 
+Date: 11.06.2010 
 
 Draft:
 
