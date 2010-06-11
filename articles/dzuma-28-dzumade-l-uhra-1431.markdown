@@ -1,4 +1,4 @@
-Džuma 28. džumade-l-uhra 1431 hdž g., 11.06.2010 g.
+Džuma 28. džumade-l-uhra 1431 hdž g, 11.06.2010 g
 ==============================================================
 Malezijska džamija Nova Breka
 
