@@ -1,4 +1,4 @@
-Hocu li stici pripremiti ispite ?!
+Hoću li stići pripremiti ispite ?!
 ==============================================
 
 Date: 12.06.2010
