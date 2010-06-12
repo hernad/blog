@@ -1,9 +1,14 @@
 Hocu li stici pripremiti ispite ?!
 ==============================================
 
+Date: 12.06.2010
+
+tags: bringout, FIT
+
+
 Veliko ciscenje bringout je, barem za mene, gotovo.
 
-Sad se mogu baciti na FIT.
+Sad se mogu baciti na FIT obaveze 100%.
 
 Čisto u glavi i oko mene
 ------------------------------
