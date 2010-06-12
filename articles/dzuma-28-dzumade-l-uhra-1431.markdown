@@ -69,8 +69,14 @@ Sura 31, Luqman. 19 ajet:
 Istinu je rekao Uzvišeni Allah.
 
 
-Kontroliši svoj govor: ne deri se !
------------------------------------
+Rezime
+----------
+
+### 1) Nemoj prodavati ublehe
+
+To bi bila moja interpretacija hadisa :).
+
+### 2) Kontroliši svoj govor: ne deri se
 
 Ja se često zaboravim pa ljudima vikom nastojim svoje stavove ili nezadovoljstvo izraziti.
 
