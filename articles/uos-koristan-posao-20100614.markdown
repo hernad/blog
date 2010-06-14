@@ -96,7 +96,7 @@ Pa ne učim čovječe za Microsoft Sales managera !!!
 Možda se ipak može učiniti smislenim ...
 ------------------------------------------
 
-I noćas pripremam taj mora-ispit. Došao sam do [profesorove knjige](http://github.com/hernad/blog/blob/master/articles/os-je-korisna-knjiga-20100614.markdown UOS je korisna knjiga).
+I noćas pripremam taj mora-ispit. Došao sam do [profesorove knjige](http://github.com/hernad/blog/blob/master/articles/os-je-korisna-knjiga-20100614.markdown).
 
 Nakon 30-tak stranica te knjige, prokomentarisao sam supruzi: 
 
@@ -195,11 +195,12 @@ Kome se obraćam ?
 
 Većina će reći da je ludost ovo što pišem. 
 
-Pročitajte onda i ovaj [članak](http://github.com/hernad/blog/blob/master/articles/glup-lud-bahat-20100605.markdown glup lud il' bahat).
+Pročitajte onda i ovaj [članak](http://github.com/hernad/blog/blob/master/articles/glup-lud-bahat-20100605.markdown).
 
-Tu ćete vjerovatno skontati u koju grupu ja vas svrstavam.
+Tu ćete brzo naći i seber u mojoj nomenklaturi bosanskog stanovništva.
 
-Bio lud ili ne, želim da kažem kome ovo pišem:
+
+Kako god, želim da kažem kome ovo pišem:
 
 * pišem samirima
 * pišem mladim ljudima kojima bajgorići ne nude ono što im treba a to je znanje. Borite se djeco za znanje
