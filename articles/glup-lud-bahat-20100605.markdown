@@ -5,6 +5,7 @@ Draft
 tags: bosna
 
 Bosna: glup, lud il' bahat
+==========================
 
 Često na televiziji čujem od "poznatih" i "priznatih" ljudi: 
 "Mi u Bosni imamo pregršt pametnih i obrazovanih ljudi, ali nemamo kapitala".
