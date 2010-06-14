@@ -48,7 +48,7 @@ to je za mene katastrofa.
 
 Ljudi oko mene kažu: "Šta bolan mozgaš - nabubaj i položi".
 
-A ja uporno objašnjavam: "Ja ljudi ne znam bubati". Ili možda neću ?!. Bilo kako bilo šta je posrijedi to je nebitno.
+A ja uporno objašnjavam: "Ja ljudi ne znam bubati". Ili možda neću ?!. Bilo šta da je posrijedi - nebitno.
 
 Bitno je da je to za mene muka. Ogromna muka. Ultimativna muka.
 
