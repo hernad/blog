@@ -190,6 +190,27 @@ E pa da i ja kažem:
 "Ja svoje kompetencije iz oblasti operativnih sistema neću mjeriti prema rezultatima polaganja ispita iz UOS-a!"
 
 
+Kome se obraćam ?
+-----------------
+
+Većina će reći da je ludost ovo što pišem. 
+
+Pročitajte onda i ovo: http://github.com/hernad/blog/blob/master/articles/glup-lud-bahat-20100605.markdown
+
+Tu ćete vjerovatno skontati u koju grupu ja vas svrstavam.
+
+Bio lud ili ne, želim da kažem kome ovo pišem:
+
+* pišem samirima
+* pišem mladim ljudima kojima bajgorići ne nude ono što im treba a to je znanje. Borite se djeco za znanje
+
+Primjetili ste da bajgorićima ne pišem. Mislim da je njima zalud pisati i objašnjavati. 
+
+Budimo pošteni, zašto bi se oni uopšte trudili da ovo shvate ? Pa njima je dobro. Nama nije dobro.
+
+Nama koji smo ludi i glupi.
+
+
 hernad@bring.out.ba
 
 
