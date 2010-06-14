@@ -39,14 +39,12 @@ Ova knjiga zaslužuje detaljnu analizu.
 
 Naravno, to ovisi i o rezultatima iz tačke 2.
 
-Ova knjiga je za mene puno više od jedne knjige.
-
-Ona je za mene puno više od loše knjige. Ona je sjajan indikator stanja našeg društva.
+Ona je za mene puno više od loše knjige. Ona je bitan indikator stanja našeg društva.
 
 Iz tog razloga knjiga zaslužuje detaljnu analizu.
 
 Svako može napisati lošu knjigu. Nikakav problem u tome.
-Ali sistem koji takvo što prihvati prihvati kao učilo .... e to je nešto sasvim drugo.
+Ali sistem (društvo) koji takvo što prihvati prihvati kao učilo .... e to je nešto sasvim drugo.
 
 Svaka čast recenzentima ove knjige. 
 
