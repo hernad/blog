@@ -10,12 +10,12 @@
 
 ### Očekivani odgovor je:
 
-*2*
+**2**
 
 
 ### Komentar
 
-Skraćenica NT ne znači ništa. 
+Skraćenica NT ne znači ***ništa**.
 
 Međutim, ako bi preformulisali pitanje: Šta znači "Windows NT ?".
 
@@ -35,5 +35,5 @@ Znate li šta znači: "UEC" ?
 
 Ne znate. Ne znači ništa. A znate li šta znači "Ubuntu UEC ?"
 
-Ne znate. Pa nije *ni bitno*. Potražite na [google-u]http://www.google.com/search?hl=bs&q=ubuntu+uec+kernel&btnG=Search
+Ne znate. Pa nije **ni bitno**. Potražite na [google-u](http://www.google.com/search?hl=bs&q=ubuntu+uec+kernel&btnG=Search)
 
