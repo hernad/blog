@@ -2,12 +2,12 @@
 
 ## 1) Prepoznaj desktop operativne sisteme
 
-# windows(9x, 2000, XP)
-# Linux
-# MacOS
-# unix
-# solaris
-# FreeBSD
+1. windows(9x, 2000, XP)
+2. Linux
+3. MacOS
+4. unix
+5. solaris
+6. FreeBSD
 
 ### Očekivani odgovor je navodno:
 
