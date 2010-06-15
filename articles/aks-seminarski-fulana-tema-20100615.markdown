@@ -47,6 +47,11 @@ Freedom ... freedom ...
 Linkovi
 -------
 
-http://gitorious.org/fit-mostar/aks/blobs/raw/19aef5f394478a409472592c802cb3593e3cba9a/seminarski/seminarski.odt
+[seminarski v.105 open document format]:(http://gitorious.org/fit-mostar/aks/blobs/raw/19aef5f394478a409472592c802cb3593e3cba9a/seminarski/seminarski.odt)
 
-http://gitorious.org/fit-mostar/aks/blobs/raw/19aef5f394478a409472592c802cb3593e3cba9a/seminarski/seminarski.pdf
+[seminarski v1.05 pdf format](http://gitorious.org/fit-mostar/aks/blobs/raw/19aef5f394478a409472592c802cb3593e3cba9a/seminarski/seminarski.pdf)
+
+A gdje je word document ? Ma bjaaaži ... to se kod hernada ne proizvodi.
+
+
+hernad@bring.out.ba
