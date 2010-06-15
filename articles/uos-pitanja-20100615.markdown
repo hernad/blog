@@ -1,7 +1,6 @@
-UOS netacno
-============
+# UOS netacno
 
-# 1) Prepoznaj desktop operativne sisteme
+## 1) Prepoznaj desktop operativne sisteme
 
 a. windows(9x, 2000, XP)
 b. Linux
@@ -10,14 +9,14 @@ d. unix
 e. solaris
 f. FreeBSD
 
-## Očekivani odgovor je navodno:
+### Očekivani odgovor je navodno:
 
 a, b, c.
 
 
-## Komentar
+### Komentar
 
-### Linux 
+#### Linux 
 
 Linux je operativni sistem koji se koristi i na serverskoj strani i na klijentskoj strani.
 
@@ -38,13 +37,13 @@ Slično, na desktopu je uobičajeno XWindows/GUI login default, ali mi opet niko
 
 Desktop, serverske, cloud session ... sve su to varijante jednog te istog OS-a.
 
-### FreeBSD
+#### FreeBSD
 
 Što se [FreeBSD-a](http://en.wikipedia.org/wiki/FreeBSD) tiče, njegovi fun-ovi takođe koriste ovaj operativni sistem i na serverskoj i na korisničkoj strani - kao desktop.
 
 Otiđite pa provjerite.
 
-### Unix
+#### Unix
 
 Za [Unix]:http://en.wikipedia.org/wiki/Unix se komotno može reći da je ovdje ubačen "po babe i žabe zajedno" principu.
 
@@ -55,7 +54,7 @@ Ako tako kažemo, upadamo u novu grešku, iz razloga što su [Linux]:(http://en.
 Sve je to znači jedna familija operativnih sistema
 
 
-## Zaključak
+### Zaključak
 
 Klasifikacija je pogrešna, i kod studenata može izazvati samo totalnu konfuziju.
 
