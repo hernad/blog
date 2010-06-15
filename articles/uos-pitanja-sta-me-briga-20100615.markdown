@@ -8,9 +8,9 @@
 4. not tested
 5. not to day
 
-### Očekivani odgovor je navodno:
+### Očekivani odgovor je:
 
-2.
+*2*
 
 
 ### Komentar
