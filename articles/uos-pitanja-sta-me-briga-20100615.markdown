@@ -15,19 +15,19 @@
 
 ### Komentar
 
-Skraćenica NT ne znači ***ništa**.
+Skraćenica NT ne znači **ništa**.
 
 Međutim, ako bi preformulisali pitanje: Šta znači "Windows NT ?".
 
 Da, to je Microsoftov marketinški naziv za novu generaciju kernela >= 5.0.
 
-Međutim zašto ti mene učiš tim terminima. Kakve to veze ima  sa predmetom "Uvod u operativne sisteme" ?
+Međutim zašto ti mene učiš tim terminima. Kakve to veze ima  sa predmetom **"Uvod u operativne sisteme"** ?
 
-To bi moglo biti smisleno pitanje jedino na predmetu "Uvod Windows tehnologije".
+To bi moglo biti smisleno pitanje jedino na predmetu **"Uvod Windows tehnologije"**.
 
-Mene apsolutno kao studenta ne interesuje kako je neki vendor svom novom kernelu dao ime. 
+Mene apsolutno ne interesuje kako je neki vendor svom novom kernelu dao ime. 
 
-
+Barem ne u tom smislu da se od mene očekuje da to znam napamet.
 
 ### Kontra-pitanje
 
