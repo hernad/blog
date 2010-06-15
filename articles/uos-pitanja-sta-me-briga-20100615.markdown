@@ -95,6 +95,8 @@ Pobereš pitanja i ispit možeš spremiti za dan-dva. To što nakon toga nećeš
 
 Međutim, studenti dolaze radi sticanja znanja. Ovo nije način da se bilo kakvo znanje stekne.
 
-Osim možda za kvizove tipa "Ko želi biti milijunaš ...". 
+Osim možda za kvizove tipa "Tko želi biti milijunaš ?". 
 
-Definitivno ne za kvizove "Ko želi biti informatičar".
+Hipotetička pitanja bi međutim morala počinjati ovako: "U knjizi prof. dr. Nijaza Bajgorića je napisano ..."
+
+
