@@ -106,11 +106,34 @@ Ovakvav pristup učenju studente može samo **zatupiti** - stvoriti im iluziju d
 
 ### Komentar
 
+Obskurno.
+
 Papak ko ne zna.
 
 ### Kontra-pitanje
 
 Koliko ormara ima u kancelariji direktora bring.out doo Sarajevo (ID broj: 218025900006)  ako se srednji dvodijelni ormar računa kao jedan ?
+
+
+## 4) U WinXP je integrisana nova verzija ACPI-ja (Advanced Configuration and Power interface). Koja ?
+
+1. 3.0
+2. 1.1
+3. 2
+4. 1.0
+5. 3.1
+
+### Odgovor
+
+**2**
+
+### Komentari
+
+Koja verzija, cccc.
+
+### Kontra-pitanje
+
+Koja verzija kernela se instalira sa Ubuntu hardy 8.04 ?
 
 
 ## Ali studenti vole koncept UOS ispita!
