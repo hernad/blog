@@ -131,6 +131,8 @@ Koliko ormara ima u kancelariji direktora bring.out doo Sarajevo (ID broj: 21802
 
 Koja verzija, cccc.
 
+Je li vi to nas pripremate za "Microsoft customer support" centar ili bi trebali da se naučimo osnovama o operativnim sistemima ?!
+
 ### Kontra-pitanje
 
 Koja verzija kernela se instalira sa Ubuntu hardy 8.04 ?
