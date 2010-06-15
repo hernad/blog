@@ -1,5 +1,11 @@
 # UOS pitanja pod oznakom "Šta me briga"
 
+Date: 15.06.2010
+
+tags: FIT
+
+
+
 ## 1) Skraćenica NT znači:
 
 1. nice try
