@@ -38,7 +38,7 @@ Ah da, dodao sam i licencu na dokument.
 
 Richard M. Stallman bio ponosan na mene :)
 
-http://www.gnu.org/licenses/fdl.html
+[Free document license v1.3](http://www.gnu.org/licenses/fdl.html)
 
 
 Freedom ... freedom ...
