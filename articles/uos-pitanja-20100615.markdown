@@ -142,7 +142,57 @@ Za mrežu c):
 Ovo pitanje nije dobro formulisano. 'Tice znaju šta je pisac mislio kad je ovo pitao.
 
 
+## 3) Spoji mreznu topologiju sa najčešće korištenim standardima kartica i konektora
+
+Topologije:
+1. BUS
+2. Zvijezda
+3. Prsten
+
+Kartice i konektori:
+1. centralni čvor, RJ45
+2. koaksijalni kabel, T konektor, na krajevima terminator
+3. ring topologija, RJ45
 
 
+### Odgovor 
+
+?
+
+### Komentar
+
+Kako može biti u skupini kartica i konektora **"ring topologija, RJ45"**
 
 
+Probaću raspetljati uz pomoć [wikipedije](http://en.wikipedia.org/wiki/Network_topology)
+
+
+Zvijezda (star) => centralni čvor sa RJ45
+
+BUS => koaksijalni kabl, T konektor, terminator
+
+sistemom eliminacije dolazim do
+
+Prsten (ring) => ring topologija, RJ45
+
+Konkretno [ring network](http://en.wikipedia.org/wiki/Ring_network)
+
+Disadvantages
+* One malfunctioning workstation or bad port in the MAU can create problems for the entire network
+* Moves, adds and changes of devices can affect the network
+* Network adapter cards and MAU's are much more expensive than Ethernet cards and hubs
+* Much slower than an Ethernet network under normal load
+
+Pa da, zato se sa ovim nisam sretao nikada - ovo više niko ne koristi.
+
+Što se tiče T konektora, koaksijalnog kabla, sjećam se patnji koje smo imali i ganjanja sa kliještima sa rješavanjem problema: "Gdje je prekid ?"
+
+Čovječe jest ta mreža bila nestabilna. Svaki drugi dan kod nekog korisnika iskoči. Kad su se pojavili hub-ovi sa RJ-45 konektorima to je bilo pravo slavlje.
+
+Da li mlade kolege kontaju o čemu ja uopšte pričam ? Da li ih je UOS šta naučio sa ovim pitanjem ?
+
+Ubjeđen sam da je odgovor 2 x **NE**.
+
+### Zaključak
+
+Još jedan set nejasnih i beskorisnih pitanja i odgovora.
