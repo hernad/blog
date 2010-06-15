@@ -82,9 +82,9 @@ Studente treba naučiti da se koriste dokumentacijom nepoznate opreme.
 
 Učenje ovakvih informacije je beskorisno i nepotrebno. Ispravka, nije beskorisno. Ono je štetno. 
 
-Štetno je jer studenti ne ulaze u temu sa fokusom na generalne osobine **hardware**-a i **generalne** principa operativnih sistema.
+Štetno je jer studenti ne ulaze u temu sa fokusom na **generalne osobine** hardware-a i **generalne** principa operativnih sistema.
 
-Maltretiranje studenata sa raznoraznim klasifikacija ima upravo taj efekat.
+Ovakvav pristup učenju studente može samo **zatupiti** - stvoriti im iluziju da je ovakvo "znanje" bitno.
 
 ## 3) Za koliko se puta smanji broj restarta prelaskom sa WIN NT 4.0 na W2000 ?
 
