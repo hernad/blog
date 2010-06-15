@@ -35,5 +35,7 @@ Znate li šta znači: "UEC" ?
 
 Ne znate. Ne znači ništa. A znate li šta znači "Ubuntu UEC ?"
 
-Ne znate. Pa nije **ni bitno**. Potražite na [google-u](http://www.google.com/search?hl=bs&q=ubuntu+uec+kernel&btnG=Search)
+Ne znate. Pa nije **ni bitno**. Potražite na [google-u](http://www.google.com/search?hl=bs&q=ubuntu+uec&btnG=Search)
+
+Kontaš ?
 
