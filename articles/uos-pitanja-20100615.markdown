@@ -178,10 +178,10 @@ Prsten (ring) => ring topologija, RJ45
 Konkretno [ring network](http://en.wikipedia.org/wiki/Ring_network)
 
 Disadvantages
-* One malfunctioning workstation or bad port in the MAU can create problems for the entire network
-* Moves, adds and changes of devices can affect the network
-* Network adapter cards and MAU's are much more expensive than Ethernet cards and hubs
-* Much slower than an Ethernet network under normal load
+ * One malfunctioning workstation or bad port in the MAU can create problems for the entire network
+ * Moves, adds and changes of devices can affect the network
+ * Network adapter cards and MAU's are much more expensive than Ethernet cards and hubs
+ * Much slower than an Ethernet network under normal load
 
 Pa da, zato se sa ovim nisam sretao nikada - ovo više niko ne koristi.
 
