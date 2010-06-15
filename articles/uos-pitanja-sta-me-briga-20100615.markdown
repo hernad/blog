@@ -86,17 +86,41 @@ Učenje ovakvih informacije je beskorisno i nepotrebno. Ispravka, nije beskorisn
 
 Maltretiranje studenata sa raznoraznim klasifikacija ima upravo taj efekat.
 
+## 3) Za koliko se puta smanji broj restarta prelaskom sa WIN NT 4.0 na W2000 ?
+
+1. 75
+2. 7
+3. 143
+4. 68
+5. nijedno od navedenih
+
+### Odgovor je navodno
+
+**4**
+
+### Komentar
+
+Papak ko ne zna.
+
+### Kontra-pitanje
+
+Koliko ormara ima u kancelariji direktora bring.out doo Sarajevo (ID broj: 218025900006)  ako se srednji dvodijelni ormar računa kao jedan ?
+
 
 ## Ali studenti vole koncept UOS ispita!
 
 Da ne bude nesporazuma. Većina studenata voli način kako je UOS organizovan. 
 
-Pobereš pitanja i ispit možeš spremiti za dan-dva. To što nakon toga nećeš imati pojma o operativnim sistemima, to nije (za mnoge studente) plaho bitno.
+Pobereš pitanja, naštrebaš, i ispit možeš spremiti za dan-dva. 
 
-Međutim, studenti dolaze radi sticanja znanja. Ovo nije način da se bilo kakvo znanje stekne.
+To što nakon toga nećeš imati pojma o operativnim sistemima, nije (za mnoge studente) plaho bitno.
 
-Osim možda za kvizove tipa "Tko želi biti milijunaš ?". 
+Nastava se zato i ne kroji prema željama studeneta, neko prema ciljevima nastavnog procesa.
 
-Hipotetička pitanja bi međutim morala počinjati ovako: "U knjizi prof. dr. Nijaza Bajgorića je napisano ..."
+A cilj nastavnog procesa je da se stekne određeno znanje. Ovo definitivno nije način da se stekne bilo kakvo korisno znanje.
+
+Osim možda za kvizove tipa "Tko želi biti milijunaš ?".
+
+Hipotetička pitanja bi međutim morala počinjati ovako: "U knjizi prof. dr. Nijaza Bajgorića je navedena je klasifikacija ..."
 
 
