@@ -1,4 +1,4 @@
-# UOS netacno
+# UOS netačno
 
 ## 1) Prepoznaj desktop operativne sisteme
 
