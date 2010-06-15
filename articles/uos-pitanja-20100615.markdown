@@ -192,9 +192,9 @@ Pa da, zato se sa ovim nisam sretao nikada - ovo više niko ne koristi.
 
 Čovječe jest ta mreža bila nestabilna. Svaki drugi dan kod nekog korisnika iskoči. Kad su se pojavili hub-ovi sa RJ-45 konektorima to je bilo pravo slavlje.
 
-Da li mlade kolege kontaju o čemu ja uopšte pričam ? Da li ih je UOS šta naučio sa ovim pitanjem ?
+Da li mlade kolege kontaju o čemu ja uopšte pričam ? Da li ih je UOS sa ovim pitanjem uveo u tu problematiku ?
 
-Ubjeđen sam da je odgovor 2 x **NE**.
+Koliko je meni poznato, odgovor  je 2 x **NE**.
 
 ### Zaključak
 
