@@ -145,11 +145,13 @@ Ovo pitanje nije dobro formulisano. 'Tice znaju šta je pisac mislio kad je ovo 
 ## 3) Spoji mreznu topologiju sa najčešće korištenim standardima kartica i konektora
 
 Topologije:
+
 1. BUS
 2. Zvijezda
 3. Prsten
 
 Kartice i konektori:
+
 1. centralni čvor, RJ45
 2. koaksijalni kabel, T konektor, na krajevima terminator
 3. ring topologija, RJ45
@@ -178,6 +180,7 @@ Prsten (ring) => ring topologija, RJ45
 Konkretno [ring network](http://en.wikipedia.org/wiki/Ring_network)
 
 Disadvantages:
+
  * One malfunctioning workstation or bad port in the MAU can create problems for the entire network
  * Moves, adds and changes of devices can affect the network
  * Network adapter cards and MAU's are much more expensive than Ethernet cards and hubs
