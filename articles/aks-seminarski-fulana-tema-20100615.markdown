@@ -16,9 +16,11 @@ Dobro je ispalo, znam ja sebe
 
 Kad malo razmislim dobro je da sam nehotice fulao temu. 
 
-Jer je prvobitna tema oblast koji logično slijedi nakon upoznavanja osnova jezika. A ja ne znam fušerit'.
+Jer je prvobitna tema oblast koja logično slijedi nakon upoznavanja osnova jezika. A ja ne znam fušerit'.
 
-Ja bi se opet "zakuc'o" na ovim osnovama. Jer, kako da ja pišem o nečemu a ni osnove mi nisu poznate ...
+I ja bi se opet "zakuc'o" na ovim osnovama. 
+
+Jer, kako da ja pišem o nečemu a ni osnove mi nisu poznate.
 
 
 Happy end
