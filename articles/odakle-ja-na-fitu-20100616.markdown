@@ -53,23 +53,25 @@ Ali to mi je najmanje bitno.
 
 *Zezn'o sam stvar jer nisam prepoznao koliko je to mojim roditeljima golemo.**
 
-Posebno mom babi. A ja sam, kao što je on moj, njegov veliki fun. Jer moj je babo poseban čovjek. Dobričina. Lafčina.
+Posebno mom babi. A ja sam, kao što je on moj, njegov veliki fun. I to ne samo zato što je moj babo. On je doista poseban čovjek. Dobričina. Lafčina.
 
 ## 98', neuspio pokušaj
 
-Danima sam bio kao nakoutiran. Tamo negdje '98 sam ja sam se vratio na ETF
+Danima sam bio kao nakoutiran. Tamo negdje '98 sam ja sam se k'o fol vratio na ETF.
+
+Ali taj pokušaj je u startu bio osuđen na propast: 
 
 Bio sam ufuran kako je "biznis" ispred svega, kako će fakultet biti samo gubljenje vremena, ... kako ionako nemam namjeru da se bavim ničim drugim od onoga što sada radim ...
 
-U to vrijeme, što se tiče posla glava mi je bila totalno "u balonu". Sve su to bili počeci, ja praktično tek učio kako se to radio posao.
+U to vrijeme, što se tiče posla. glava mi je bila totalno "u balonu". Sve su to bili počeci, ja sam tek učio kako se radi posao.
 
-Ono što mi je "maglilo" vidike je činjenica da je firma bila u snažnom usponu. S druge strane, bez mene se ništa nije moglo zavšiti.
+Ono što mi je "maglilo" vidike bila je činjenica da jeu u to vrime firma bila u snažnom usponu. Druga strana medalje, da je to ipak bio "one-man show".  Bez mene se ništa nije moglo zavšiti.
 
 Svaki pokušaj da nešto značajno prenesem na druge završavalo je neuspjehom. 
 
-Nisam se puno dvoumio, i nakon manje od  dvije hefte došao sam kući i Dženani rekao: ja sam sa fakultetom završio.
+Nakon manje od  dvije hefte došao sam kući i Dženani rekao: ja sam sa fakultetom završio.
 
-## Veliki tresak 2004, firma danas
+## Veliki tresak 2004
 
 Nakon toga se puno izdešavalo. 2004 se u firmi desio pad koji bih najbolje opisao padanjem jumbo-jet-a sa 2000 metara bez motora.
 
@@ -78,12 +80,6 @@ I baš kao u filmovima C klase, taman da se desi veliki big-bang, tu se radnja z
 Za razliku od filmova, kako to biva u realnom svijetu, posljedica je bilo. 
 
 Ono što je (nažalost) bilo neophodno, desilo se. Ja sam morao doći do dna da bih se presabrao. 
-
-Ne može se 18 sahata raditi. Ne može se na porodicu zaboraviti. Ne može se od kokoši orao praviti ...
-
-I stvari su polahko krenule nabolje. Firma se postupno stabilozovala, i što je najbitnije, ja sam počeo gornje stvari uvažavati.
-
-Sada smo jedna  mala firma, koja normalno posluje. Ništa ekstra, ali sasvim pristojno.
 
 
 ## Backup babo
@@ -100,7 +96,18 @@ Ako vam treba pomoć oko naplate, ako nemate dovoljno sredstava za platu, recite
 Dva mjeseca sam bio odsutan. Nisam dotakao računar, niti sam se bavio poslom.
 
 
-## Opet zatalasati sa fakultetom ?
+## Firma danas
+
+Nakon svih tih turbulencija, svari su polahko krenule nabolje. 
+
+Firma se postupno stabilozovala, i što je najbitnije, bitne lekcije sam napokon savladao:
+
+Ne može se 18 sahata raditi. Ne može se na porodicu zaboraviti. Ne može se od kokoši orao praviti ...
+
+Sada smo jedna  mala firma, koja normalno posluje. Ništa ekstra, ali sasvim pristojno.
+
+
+#Opet zatalasati sa fakultetom ?
 
 Nakon svih tih turbulencija, o fakultetu nisam ni razmišljao. 
 
