@@ -151,7 +151,7 @@ Ovaj put, za razliku od '98, odgovor je ipak bio "DA".
 
 Nakon godinu dana, sve više sam uvjeren da sam napravio dobru odluku.
 
-Zato, jer me je moj babo zadužio da završim ne jedan, nego tri fakulteta.
+Zato, jer me je **moj babo zadužio da završim ne jedan, nego tri fakulteta**.
 
 Iako sam ja njegov super-star, nadam se da će mu ipak biti dovoljan ovaj jedan :)
 
