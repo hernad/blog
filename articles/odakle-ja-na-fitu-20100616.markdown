@@ -21,7 +21,7 @@ Od pametnih ideja do totalnih budalaština.
 
 Mati nije bila po strani, ali je imala sasvim drugu ulogu. I ona je uvijek bila tu kod poduhvata zvanog "izvedimo Ernada na selamet". 
 
-Međutim, njena uloga je redovno bila logističara, a babina direktna implementacija. Ona back-office, babo front-office.
+Međutim, njena uloga je redovno bila uloga logističara, a babina direktna implementacija. Ona back-office, babo front-office.
 
 Ja nisam sin jedinac. Imaju oni dva sina. I ne mislima da sam onaj koji je više voljen.
 
