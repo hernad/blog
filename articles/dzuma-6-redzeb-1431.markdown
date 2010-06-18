@@ -40,12 +40,12 @@ Qur'an, Sura 18, al-Kahf (Pećina), prevod Esad Duraković 2004)
 Istinu je rekao uzvišeni Allah.
 
 
-Moja dova
+Dova
 --------
 
 Molim Uzvišenog da mi iz nepresušne milosti Svoje podari razboritost, i učini moja djela korisnim.
 
-Gospodaru moj, daj da se klonem tuđeg haak-a[1] . Podaj mi snage da branim svoj, i haak moje porodice.
+Gospodaru moj, daj da se klonem tuđeg haak-a([1]) . 
 
 Kad zapadnem u teškoće, providi! Olakšaj moje odluke!
 
