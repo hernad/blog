@@ -43,13 +43,15 @@ Istinu je rekao uzvišeni Allah.
 Dova
 --------
 
-Molim Uzvišenog da mi iz nepresušne milosti Svoje podari razboritost, i učini moja djela korisnim.
+Molim Uzvišenog da mi iz nepresušne milosti Svoje podari razboritost, i moja djela učini korisnim.
 
-Gospodaru moj, daj da se klonem tuđeg haak-a([1]) . 
+Sačuvaj me od besposlica i nepotrebnih priča.
+
+Gospodaru moj, daj da se klonem tuđeg haak-a([1]).
 
 Kad zapadnem u teškoće, providi! Olakšaj moje odluke!
 
-Podaj da istrajem na dobru, da se klonem pogrešnog i beskorisnog.
+Podaj da istrajem na dobru.
 
 Amin.
 
