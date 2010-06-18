@@ -32,8 +32,10 @@ Ono što *znam*, jeste da sam bio iskren. Znam takođe da je moj cilj bio da izl
 
 I baš nekako na kraju ovog mog razmišljanja, Elvedin je naveo ovaj kur'anski ajet:
 
-Qur'an, Sura 18, al-Kahf (Pećina), prevod Esad Duraković 2004)
+Qur'an, Sura 18, al-Kahf (Pećina), 
 ---------------------------------------------------------------
+
+(prevod Esad Duraković 2004)
 
 > a.10 Tako se mladići u Pećinu skloniše i rekoše: "Gospodaru, podari nam milosti Svoje i daj nam razbora u pogledu naše odluke!"
 
