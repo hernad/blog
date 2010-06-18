@@ -43,7 +43,7 @@ Istinu je rekao uzvišeni Allah.
 Dova
 --------
 
-Molim Uzvišenog da mi iz nepresušne milosti Svoje podari razboritost, i moja djela učini korisnim.
+Molim Uzvišenog da mi iz nepresušne milosti Svoje podari **razboritost**, i **moja djela učini korisnim**.
 
 Skloni me od besposlica i nepotrebnih priča.
 
