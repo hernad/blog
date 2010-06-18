@@ -45,7 +45,7 @@ Moja dova
 
 Molim Uzvišenog da mi iz nepresušne milosti Svoje podari razboritost, i učini moja djela korisnim.
 
-Gospodaru moj, ne daj da posegnem za tuđim haak-om[^1]. Podaj mi snage da branim svoj, i haak moje porodice.
+Gospodaru moj, ne daj da posegnem za tuđim haak-om [1]. Podaj mi snage da branim svoj, i haak moje porodice.
 
 Kad zapadnem u teškoće, providi! Olakšaj moje odluke!
 
@@ -54,4 +54,4 @@ Podaj da istrajem na dobru, da se klonem pogrešnog i beskorisnog.
 Amin.
 
 
-[^1]: Haak - pravo, ono što nekome pripada
+[1]: Haak - pravo, ono što nekome pripada
