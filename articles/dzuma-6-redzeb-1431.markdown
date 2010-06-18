@@ -45,7 +45,7 @@ Dova
 
 Molim Uzvišenog da mi iz nepresušne milosti Svoje podari razboritost, i moja djela učini korisnim.
 
-Sačuvaj me od besposlica i nepotrebnih priča.
+Skloni me od besposlica i nepotrebnih priča.
 
 Gospodaru moj, daj da se klonem tuđeg haak-a([1]).
 
