@@ -20,9 +20,9 @@ Poniženost. Nevjerica. Gnušanje.
 
 Ali definitivno nisam kadra da riječima izrazim ono što sam doživio čitajući ovu knjigu.
 
-Nešto najbliže ovom osjećaju bilo je čitanje knjiga iz marskizma.
+Nešto najbliže ovom osjećaju bilo je čitanje knjiga iz "Marksizma".
 
-S tim što ovaj sadržaj bio totalno nepovezan i besmislen. U knjige iz marskizma sam se nekako i mogao ufurati.
+S tim što ovaj sadržaj bio totalno nepovezan i besmislen. U knjige iz "Marksizma" sam se nekako i mogao ufurati.
 
 Možda je do mojih godina. 
 
