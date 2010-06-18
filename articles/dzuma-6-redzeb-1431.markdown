@@ -54,4 +54,5 @@ Podaj da istrajem na dobru, da se klonem pogrešnog i beskorisnog.
 Amin.
 
 
-[1]: Haak - pravo, ono što nekome pripada
+[1]: http://github.com/hernad/blog/blob/master/articles/dzuma-6-redzeb-1431.markdown  Haak - pravo, ono što nekome pripada
+
