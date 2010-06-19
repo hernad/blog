@@ -67,6 +67,7 @@ Razmišljam da mu koristeći ove veze predložim: "Zemo, de bolan dodajte bolan 
 ## Gdje se uči bajgorologija
 
 Ja znam za moj fakultet FIT Mostar:
+
  * Bajgorologija I  (pod nazivom "Uvod u informatiku") - I semestar
  * Bajgorologija II - (pod nazivom Uvod u operativne sisteme") - II semestar
 
