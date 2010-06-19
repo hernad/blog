@@ -2,7 +2,7 @@
 
 Datum: 19.06.2010
 
-Elhamdulillah, moja [sinoćnja dova je uslišena]:(http://github.com/hernad/blog/blob/master/articles/uos-knjiga-1-procitana-20100618.markdown).
+Elhamdulillah, moja [sinoćnja dova je uslišena](http://github.com/hernad/blog/blob/master/articles/uos-knjiga-1-procitana-20100618.markdown).
 
 Položio sam bajgorologiju II. 82%.
 
@@ -48,7 +48,9 @@ Nepažljivi čitalac bajgoroloških radova će pomisliti da bajgorologija ima ve
 
 Ali nema. Ona samo koristi informatičke termine u "random" režimu.
 
-Od tih konstrukcija se formiraju "bajgorićeve klasifikacije". 
+Od tih konstrukcija se formiraju famozne "bajgorićeve klasifikacije". 
+
+Ja volim reći da se u tim klasifikacijama trpaju i babe i žabe. Ali ipak uzmite u obzir da je to komentar jednog laika.
 
 Ako vas neko pita nešto iz bajgorologije, nemojte se zaletiti pa suffati po wikipediji ili čitati nekakve informatičke knjige. To je klasični izvor grešaka.
 
