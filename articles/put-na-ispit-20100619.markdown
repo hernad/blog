@@ -55,27 +55,34 @@ Uglavnom su to bile teme za blogove:
   * Osnovna škola: Ljubica Mirković - ja i Natalija Vasiljević - mogu li ja pričati ekavski 
 
 7) Zašto blogiram:
+
   * jer mi misli lete ispred mene - moram ih nekako spustiti
   * baš ovako je moj Bakir nedavno objasnio svoje ideje (električno ljepilo)
 
 8) Saša: Kad se ja vama naklapastim na kosti
 
 9) Antisistem:
+
   * ko si ti da kvariš moj (anti)sistem
 
 10) Činovnici, najbolji čuvari antisistema:
+
   * al ne oni na šalterima - krajnji izvršioci nego šefovi i šefići ... referenti za "ono" i dsz
 
 11) Narod 0 - biometrijski pasoši:
+
   * Mimo Šahinpašić OBN - Vox populi - nije to jarane Vox populi, nego Mimo Vox
 
 12) Čedo bijeli luk:
+
   * zašto sam nepismen
 
 13) Proglas asistentima FIT-a:
-  * mislite svojom glavom, nemojte džoniti bajgoriće
+
+* mislite svojom glavom, nemojte džoniti bajgoriće
 
 14) Ja i moja djeca, problem autoriteta:
+
   * Samra - vi ste došli u elitnu školu (II gimnazija) ... ostala djeca utrnula a samra - pa znam valjda gdje sam došla ... pokažite VI da sam došla u elitnu školu
   * Major Pudar na partijskom sastanku - mali jesi'l ti lud digni ruku kad svi drugi dignu!
 
