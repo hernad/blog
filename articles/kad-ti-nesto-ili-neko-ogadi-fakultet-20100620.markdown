@@ -53,7 +53,7 @@ Ja uopšte nisam shvatio pitanje, jer je ono bilo precizno formulisano.
 
 Naime, čovjek je htio da mu se navedu "Načini obračuna najamnine" (po učinku, po vremenu provedenom na poslu itd ...)
 
-Ja sam bio međutim jedan od rijetkih (koji je učio i spremao ispit) koji nije znao da je "oblici najamine" šifra za "načini obračuna najamnije" (na osnovu [redmine bilješki](http://redmine.bring.out.ba/issues/19652)).
+Ja sam bio međutim jedan od rijetkih (koji je učio i spremao ispit) koji nije znao da je "oblici najamine" šifra za "načini obračuna najamnije" (referenca ove [bilješke u redmine-u](http://redmine.bring.out.ba/issues/19652)).
 
 Paradoks je u tome da sam ja u svojoj struci, informatici, "guru" za ovu oblast. Doista jesam. 
 
