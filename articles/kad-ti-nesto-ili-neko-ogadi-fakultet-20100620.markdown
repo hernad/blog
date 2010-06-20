@@ -57,7 +57,7 @@ Ja sam bio međutim jedan od rijetkih (koji je učio i spremao ispit) koji nije 
 
 Paradoks je u tome da sam ja u svojoj struci, informatici, "guru" za ovu oblast. Doista jesam. 
 
-Ja sam u posljednjih par godina u mojoj [firmi](http://www.bring.out.ba)  implementirao praćenje svih aktivnosti firme (redmine project menadžment sistem) elektronski, uveo elektronsku evidenciju utroška, i obračun plata se bazira na toj evidenciji.
+Ja sam u posljednjih par godina u mojoj [firmi](http://www.bring.out.ba)  implementirao praćenje svih aktivnosti firme (redmine project menadžment sistem) elektronski, uveo elektronsku evidenciju utroška radnog vremena. Obračun plata u našoj firmi se bazira na toj evidenciji.
 
 E pa izvini, ali to bi trebalo nekako da se osjeti kod polaganja ovakvog ispita.
 
