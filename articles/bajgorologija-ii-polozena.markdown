@@ -83,7 +83,7 @@ Logično mo je da se i na Ekononomskom fakultetu izučava ova naučna grana. Bil
 
 Ma to smo mi radi onih papaka iz Bolonje. Ljubomorni što oni nisu smislili bajgorologiju, pa se bune da to stavimo curriculum.
 
-Al' nismo ni mi od juče. Mi smo stavili ove nazive predmeta na kojima su oni insistirali, ali "ispod haube" je jarane pure **bosnian bajgorolgija**.
+Al' nismo ni mi od juče. Mi smo stavili ove nazive predmeta na kojima su oni insistirali, ali "ispod haube" je jarane pure **bosnian bajgorology**.
 
 
 

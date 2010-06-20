@@ -86,7 +86,28 @@ Uglavnom su to bile teme za blogove:
   * Samra - vi ste došli u elitnu školu (II gimnazija) ... ostala djeca utrnula a samra - pa znam valjda gdje sam došla ... pokažite VI da sam došla u elitnu školu
   * Major Pudar na partijskom sastanku - mali jesi'l ti lud digni ruku kad svi drugi dignu!
 
-Četrnaest tema Sarajevo-Mostar. Sva sreća pa nisam krenuo na more :) 
+15) Ispitivanje, ocjenjivanje
+
+  * precizno pitanje
+  * smisleno pitanje
+  * ciljevi nastave određuju pitanja (sutradan za kahvom za Dž)
+  * uključivanje u projekte: google code, kernel bug resolving
+
+16) Ocjena
+
+  * UPR ocjena
+  * AKS ocjena
+  * 1+5=5, smije li se to
+
+17) email korespondencija
+
+  * (nekultura) reply: ok dobio/la sam email, javiću se kasnije, za 5 dana, za 10 dana, nikad 
+  * bitno je odgovoriti, pozitivno i negativno, a ne nekoga pomnožiti
+  * neodgovaranje je isto što i spuštanje slušalice kada te neko nešto pita ... to ljudi međutim rijetko čine
+
+
+
+Sedamnaest tema na relaciji Sarajevo-Mostar. Sva sreća pa nisam krenuo na more :) 
 
 Čovječe, morao bih uzeti mjesec dana off da ovo stavim na papir ... Isto k'o da me struja drmnula.
 
