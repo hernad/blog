@@ -55,13 +55,13 @@ Naime, čovjek je htio da mu se navedu "Načini obračuna najamnine" (po učinku
 
 Ja sam bio međutim jedan od rijetkih (koji je učio i spremao ispit) koji nije znao da je "oblici najamine" šifra za "načini obračuna najamnije". 
 
-Paradoks je u tome da sam ja u svojoj struci, informatici, guru za ovu oblast. Doista jesam. 
+Paradoks je u tome da sam ja u svojoj struci, informatici, "guru" za ovu oblast. Doista jesam. 
 
-Ja sam u posljednjih par godina u mojoj [firmi](http://www.bring.out.ba)  implementirao praćenje svih aktivnosti firme (redmine project menadžment sistem) elektronski, uveo elektronsku evidenciju utroška, i obračun plata se bazikra na toj evidenciji.
+Ja sam u posljednjih par godina u mojoj [firmi](http://www.bring.out.ba)  implementirao praćenje svih aktivnosti firme (redmine project menadžment sistem) elektronski, uveo elektronsku evidenciju utroška, i obračun plata se bazira na toj evidenciji.
 
-E pa izvini, ali to bi trebalo nekako da se "osjeti" kod polaganja ovakvog ispita.
+E pa izvini, ali to bi trebalo nekako da se osjeti kod polaganja ovakvog ispita.
 
-Nakon što sam prvi put pao k'o kruška, skontao sam "sistem" pa dobro naštrebao svaki naslov i podnaslov iz knjige. I nekako dobio 7-icu.
+Nakon što sam prvi put pao k'o kruška, skontao sam sistem pa dobro naštrebao svaki naslov i podnaslov iz knjige. I nekako dobio 7-icu.
 
 Ali ključna stvar je to što je meni taj ispit skroz ogadio FIT.
 
