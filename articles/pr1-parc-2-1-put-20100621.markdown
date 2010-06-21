@@ -150,6 +150,7 @@ Ostala raja koja je radila integralno je žalila je uglavnom komentarisala: Izgu
 Sve u svemu ono što studenti trebaju pričati.
 
 Za razliku od komentara kad se završila prekjuče "Bajgorologija II":  
+  
   * "Je li tamo neki IBM model pripada ovoj ili onoj kategoriji po tamo nekoj klasifikaciji ..." 
   * "je li '92 ili '90 M$ objavio win32 layer ..." 
 
