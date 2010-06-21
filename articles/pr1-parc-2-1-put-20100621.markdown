@@ -289,7 +289,7 @@ Ono što je najbitnije, PR1 je predmet gdje se stiču konkretne vještine.
 
 Ko ovaj ispit pošteno položi, on će se upoznati sa principima programiranja.  A to je stvrha FIT-a. 
 
-Zato je moja ocjena ovom predmetu 8,5 bez dileme :)
+Zato je moja ocjena ovom predmetu **8,5** bez dileme :)
 
 
 hernad@bring.out.ba
