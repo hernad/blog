@@ -23,7 +23,7 @@ Znam da mi nije bitno za ispit, al' nekako mi je to ostalo i nakon par čitanja 
 
            void getline_1() {
 
-                char *temp = new char[10], *temp_2 = new char[100];
+               char *temp = new char[10], *temp_2 = new char[100];
 
                cout << "unesite TACNO 10 znakova :";
                cin.getline(temp, 10);
@@ -45,6 +45,203 @@ Znam da mi nije bitno za ispit, al' nekako mi je to ostalo i nakon par čitanja 
            }
 
 
+Šta ovaj gore kod radi:
+
+  * definiše dvija null terminated stringa temp, temp_2
+  * temp je tamam tol'ki da može 9 znakova (+ 0) primiti, a ovaj temp_2 sam "rasteg'o"
+  * nakon toga se dešava prvi getline koji puni temp varijablu
+  * iza toga ide ignore koji bi trebao počistiti višak iza getline-a
+  * nakon toga ispisuje se sadržaj temp-a da vidimo šta se u njemu desi
+  * nakon toga se dešava drugi getline za temp_2 i sve isto za njega
+
+Ovaj kod funkcioniše "ko čvoka", ali samo pod uslovom da se držimo toga da unesemo <=9 znakova. U suprotnom, misteriozno temp_2 getline se uopšte ne desi, a temp_2 varijabla čak ni ne dobije ono što je "prekipilo" znakova u cin buffer-u nakon prvog unosa.
+
+Pokušavao sam dodavati više ignore linija ali ništa, pa zadavati razne parametre (cin.igore(100,'\n'), cin.ignore(100,'#') ali ništa.
+
+## Pitanje asistentima
+
+Pošto sve to definitivno nije plaho bitno, nisam ni htio pitati asistente (Denis i još jedna kolegica sa drugog predmeta koja je dežurala mislim da se zove Emina) za ovo.
+
+Onda se pojavio problem što su oni zaboravili prazne papire, pa sam ja našao dvije prazne teke koje sam im dao.
+
+Denis je pitao za protuslugu, a ja sam prvo rekao: "Neka to bude moj mali doprinos FIT-u :)". 
+
+Međutim, kako je ovaj cin.ignore stajao .... malo kasnije sam nastavio: "Ipak ću tražiti protuuslugu, ovdje imam nešto što mi nije jasno pa me interesuje imate li vi ideju zašto ovaj kod ne radi ?"
+
+"Hah znao sam da će ipak biti nešto", dobronamjerno je odgovorio Denis. 
+
+## Zajedničkim snagama, al' opet ništa
+
+Prvi problem za Denisa i Eminu je bio moj vi editor i gcc kompajler.  Nema kod mene  Visual studija :). 
+
+"Nemaš ti IDE sa negdje intellisense-om ?", pitao je Denis.
+
+Ma imam eclipse, al' sad da se ne trošimo vrijeme. Evo kucaću ja, samo vi pogledajte kod.
+
+Međutim, Denis je sjeo za moj računar ... i gledao, i probao par stvari sa parametrima ignore-a, ali ništa. Uglavnom sam se i ja vrtio oko toga.
+
+Kasnije je došla i Emina, predložila flush() da se buffer isprazni, ali ispostavilo se da flush() metod  postoji samo za cout stream, a za cin takav metod nema.
+
+U to je došlo vrijeme ispitu, pa smo problem ostavili po strani.
+
+## Početak ispita
+
+Ja sam jedini parcijalno polagao, ostali integralno. Dobio sam [ispitni zadatak](http://gitorious.org/fit-mostar/pr1/blobs/raw/6b27e1cfcd268135f25104f2c091167c3a895dbb/ispitni_zadaci/parc_2_21062010.pdf).
+
+Prošao sam po zadatku, i rekao u sebi: "Ok ovo znam".
+
+Još kada je Denis rekao da mogu pisati i ja dva sahata sa "integralcima", bio sam ubjeđene da za ovaj ispit zime :(
+
+Ali' to je bila loša procjena.
+
+Prvo sam krenuo, pa sam se na Unos funkcijama zagubio. Uobičajeno bi bilo da te funkcije idu bez parametara, pa da se unutar njih sav unos desi. Kasnije mi je Denis to prokomentarisao: "Shvatam šta govorite, ali jednostavno cilj je da vidimo kako studenti barataju sa parametrima ...".
+
+U tom mi je prvih pola sahata i pobjeglo ... Tek nakon toga sam se ufurao o počeo pisati.
+
+## Denis konta o ignore-u
+
+Denis je prilazio studentima i davao kratke komentare i upute. Došao je do mene.
+
+Pitao me: "Kako ste uradili prvi parcijalni ?" Rekoh 85%. "Aha, pa kako sada kako ide ?". "Ma ove Unos funkcije me zbunjuju", prokomentarisao sam. On će mi objasniti what's the point kao što sam u predhodnom pasusu rekao.
+
+Nastavi Denis, "Vezano za cin buffer - javite mi se ja ću to pogledati".
+
+Vidim čovjeka "golica" u čemu je kvaka ... 
+
+"Hehe pravi informatičar .."  pomislim. 
+
+I bi mi drago. Jer ko se "pali" na ovakve stvari, taj je sigurno spreman da se potrudi i da studentima objasni. 
+
+
+Ranije prilaženje studentima i napominjanje 3-4 puta: "pazite da dereferencirate pointere ..." reklo je da se radi o čovjeku koji zna šta radi i šta on treba postići. Treba ljude naučiti. A ne glumiti neku bijesnu glistu.
+
+Hvala Bogu da se [bajgorološke doktrine](http://github.com/hernad/blog/blob/master/articles/bajgorologija-ii-polozena.markdown) nisu proširile na na ovakve predmete. 
+
+Ja bih onda definitivno kapitulirao, jer bi konačna ocjena bila: "FIT je besmislica". 
+
 ## Nebo trepti, mozak gori
+
+Vratimo se ispitu.
+
+Za razliku od prvog parcijalnog, iako sam imao duplo više vremena, ovaj mi je baš nešto loše išao ... 
+
+Ti su me "Unos-i" odvukli i očigledno potrošili onu početnu energiju koja je potrebna da se posao uradi kako treba.
+
+I kako sam loše otvorio utakmicu, tako je sve nekako ćopavo išlo.
+
+Nakon nekh 45 minuta počeo sam ja to pisati ... Stvari su se počele rješavati, ali počeo se i umor dešavati. Osjetim da mi je CPU 100%, i da se baterije troše. Čovječe jesam ostario ... 
+
+## Epilog
+
+Dosta toga uopšte nisam uradio. Pred kraj ispita sam počeo pregledati dijelove za koje sam procijenio da demonstriraju određene oblasti koje su se željele provjeriti ispitom. 
+
+Mislim (nadam se) da sam ono što sam uradio - uglavno uradio dobro. 
+
+Ako sam kod ovog što sam uradio napravio puno grešaka - nema dvojbe da padam k'o kruška. Pa i trebam. 
+
+Ako je tačno, onda imam šansi za prolaz. Al' da je rad "tanaka-ogato",  brate jeste.
+
+Međutim, nisam u crnjaku. Jer sam radio jedan smislen ispit.    
+
+## Komentari ostale raje nakon ispita
+
+Ostala raja koja je radila integralno je žalila je uglavnom komentarisala: Izgubio/la sam se ... Pointer na pointer na pointer ... Pa onda je bilo komentara: Joj stid me šta sam ono napisao/napisala. Joj, kada sam vidio enumeracije smrklo mi se, nisam ih ni pogledao  ....
+
+Sve u svemu ono što studenti trebaju pričati.
+
+Za razliku od komentara kad se završila prekjuče "Bajgorologija II":  
+  * "Je li tamo neki IBM model pripada ovoj ili onoj kategoriji po tamo nekoj klasifikaciji ..." 
+  * "je li '92 ili '90 M$ objavio win32 layer ..." 
+
+[Ma koga je briga ?!!](http://github.com/hernad/blog/blob/master/articles/uos-pitanja-sta-me-briga-20100615.markdown)
+
+Tačno je da studenti uvijek raspredaju priču *prvenstveno da ispit polože*. 
+
+I upravo to je najbolji indikator kako se nastava odvija. Ako čuješ besmislene priče - tu nešto garant' smrdi. 
+
+## Šta se tražilo na drugom parcijalnom
+
+Dobro je zabilježiti, koje su glavne stvari koje su trebale za ispit:
+
+ 1. strukture i member funkcije
+ 2. handliranje dinamičkih i statičkih članova u strukturama
+   * alociranje i dealociranje dinamičkih elemenata
+ 3. rukovanje nizovima
+ 4. prosljeđivanje parametara pointer/value
+ 5. fstream - (ios:app, ios::binary i slično)
+ 6. enumeracije 
+ 
+
+### Kako ja stojim sa ovim
+
+Da me je neko prije ispita pitao ovo - znam li, rekao bih znam.
+
+Ali kad je trebalo na ispitu to odrađivati, stvar je ipak dobrano zaštekala. Možda nije bio moj dana, a možda sam trebao više jednostavno vremena odvojiti za pripremu ispita. 
+
+Ono što nisam siguran da sam dobro uradio je:
+
+### dilema 1) ofstream.write
+
+Jesam li dobro koristio fstream.write u strukturi koja je ugniježdena (Kandidat u sebi sadrži matricu Kategorija, koja je za svakog Kandidata različite veličine). Pošto su primjeri po kojima sam priprema bili samo trivijalni slučajevi, ja sam analogijom onako "napamet" ovo napisao. Dal to radi ne znam. Vjerovatno ne radi :(
+
+#### dilema 2) korištenje enumeracija
+
+Enumeracije su jednostavne do boli. Ne kontam kako da na tome zastanem:
+
+ 
+    enum Oznaka {A, B, C, D, E};
+    ..
+
+    Oznaka ozn;
+
+    cout << "unesi oznaku:"
+
+    // ovo je bitno jer cin ne zna raditi direktno sa enum-om
+    cin >> (int) ozn;
+ 
+    switch (ozn) {
+
+        case A:
+            cout << "A" ;
+            break;
+
+        case B:
+            cout << "B" ;
+         
+        ... itd itd ...
+          
+    }
+
+
+Ja sam zastao na "case A" jer mi nikako nije mogla doći "slika" korištenja enum vrijednosti.
+
+Mislim da je ovo na kraju ipak ok.
+
+Namjerno neću da gledam u literaturu da ne pokvarim objektivnost ovog prikaza :)
+
+
+## Povratak u kancelariju
+
+Pošto sam jednom od mladih kolega obećao da ću publikovati zadatke sa parcijalnog, palo mi je na pamet: zašto ovo ne blogirati.
+
+Posebno zato što sam do sada uglavnom pisao o ružnim stranama FIT-a. 
+
+Programiranje-1 je definitivno lijepa strana FIT-a, pa zašto to ne napisati. A ako još nekome budem od pomoći kod polaganja ispita, nikog sretnijeg od mene.
+
+
+## cin.ignore
+
+Na kraju da završim tamo gdje sam počeo.
+
+Kad sam se vratio u kancelariju, ostalo mi je da "proguglam" vezano za dilemu cin-a pražnjenja. 
+
+Našao sam rješenje. Problem je bio što se gore dešavao cin error, i moralo se to fail stanje handlirati.
+
+
+Na kraju samo to izdvojio kao posebnu funkciju koja se za razliku od cin.ignore-a znatno inteligentnije ponaša.
+
+Link na tu [funkciju je ovdje](http://gitorious.org/fit-mostar/pr1/blobs/master/parc_2_vjezbe/komande.cpp#line103).
+
+getline_1 funkcija iz gornjeg primjera koja radi kako treba je [ovdje](http://gitorious.org/fit-mostar/pr1/blobs/master/parc_2_vjezbe/komande.cpp#line124)
 
 
