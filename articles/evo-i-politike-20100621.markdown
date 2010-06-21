@@ -49,6 +49,6 @@ Gospodaru moj, podaj da se riješimo bahatih, nesposobnih i nepravednih prvaka.
 
 Podaj da naučimo razlučivati šta su prave vrijednosti, i kako se boriti za njih.
 
-Podaj da Bosnom zavladaju oni koji će misliti i na moju, a ne samo za sebe i svoju djecu.
+Podaj da Bosnom zavladaju oni koji će misliti i na moju, a ne samo na sebe i svoju djecu.
 
 Amin.
