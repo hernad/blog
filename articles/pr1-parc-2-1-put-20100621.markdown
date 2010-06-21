@@ -1,0 +1,50 @@
+# Programiranje 1, II parcijalni, 1. put
+
+Bio sam jutros na ovom ispitu.
+
+Nažalost, sam naslov kaže da vrlo lahko može biti i II parcijalni / 2. put :(
+
+Ustvari ne znam da li, ako ne položim ovaj put, imam pravo ponovo polagati parcijalno. Valjda imam.
+
+
+##  Prije ispita
+
+Došao sam puno ranije nego će ispit početi, pa sam otvorio notebook. 
+
+Asistent Denis mi je rekao: "Kolega, ne treba vam računar, samo sveska i olovka :)"
+
+"Ma znam, al' da ubijem vrijeme", rekoh.
+
+## cin.getline, cin.ignore
+
+I tu sam počeo čačkati oko cin.getline, cin.ignore.
+
+Znam da mi nije bitno za ispit, al' nekako mi je to ostalo i nakon par čitanja "u magli",  pa rekoh taman da vidim kako ta stvar funkcioniše.
+
+           void getline_1() {
+
+                char *temp = new char[10], *temp_2 = new char[100];
+
+               cout << "unesite TACNO 10 znakova :";
+               cin.getline(temp, 10);
+
+               cin.ignore(100);
+
+               cout << "ukucano je :" << temp << endl;
+               cout << "duzina stringa je " << strlen(temp) << endl;
+
+
+               cout << "unesite/2 TACNO 10 znakova :";
+               cin.getline(temp_2, 10);
+
+           
+              cout << "ukucano je :" << temp_2 << endl;
+
+              cout << "duzina stringa je " << strlen(temp_2) << endl;
+
+           }
+
+
+## Nebo trepti, mozak gori
+
+
