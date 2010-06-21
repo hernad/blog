@@ -287,7 +287,7 @@ Na stanovištu sam naime da se prvi programerski koraci NE TREBAJU raditi sa IDE
 
 Ono što je najbitnije, PR1 je predmet gdje se stiču konkretne vještine. 
 
-Ko ovaj ispit pošteno položi, on će se upoznati sa principima programiranja.  A to je stvrha FIT-a. 
+Ko ovaj ispit pošteno položi, on će se upoznati sa principima programiranja.  A to je svrha FIT-a. 
 
 Zato je moja ocjena ovom predmetu **8,5** bez dileme :)
 
