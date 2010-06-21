@@ -92,7 +92,12 @@ U to je došlo vrijeme ispitu, pa smo problem ostavili po strani.
 
 ## Početak ispita
 
-Ja sam jedini parcijalno polagao, ostali integralno. Dobio sam [ispitni zadatak](http://gitorious.org/fit-mostar/pr1/blobs/raw/6b27e1cfcd268135f25104f2c091167c3a895dbb/ispitni_zadaci/parc_2_21062010.pdf).
+Ja sam jedini parcijalno polagao, ostali integralno. Dobio sam [ispitni zadatak](http://github.com/hernad/blog/raw/master/articles/parc_2_21062010.pdf)
+
+Postoji i [ovdje na mom gitorious repozitoriju pr1](http://gitorious.org/fit-mostar/pr1/blobs/master/ispitni_zadaci/parc_2_21062010.pdf), ali radi veličine trebate napraviti [git clone ovog repozitorija](http://gitorious.org/fit-mostar/pr1)
+
+
+
 
 Prošao sam po zadatku, i rekao u sebi: "Ok ovo znam".
 
