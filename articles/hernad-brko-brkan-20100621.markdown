@@ -1,5 +1,4 @@
-# hernad brko-brkan u Ministarstvu obrazovanja
-
+# hernad, brko-brkan
 
 Datum: 21.06.2010
 
@@ -22,9 +21,11 @@ Hernad je student => korisnik usluga.
 
 Niste ovo na ovakav način gledali ? Vakat vam je gledati. Jer to je, ma koliko bilo neuvriježeno stajalište, sasvim **normalan poredak** stvari.
 
+## Konačni cilj: posao u Ministarstvu obrazovanja
+
 Kad malo nakupim iskustva u ovim vodama, mogao bih uraditi sljedeće:
  
- * Prijaviću se u ministarstvo obrazovanja, i aplicirati za posao kao visoki, najviši inspektor 
+ * Prijaviću se u Ministarstvo obrazovanja, i aplicirati za posao kao visoki, najviši inspektor 
  * Predstaviću se ovako: "Ja sam hernad. Brko-brkan.  Radio sam ono što ste vi trebali raditi, al' eto ne radite: **Pratio rad obrazovnih institucija al'oprave**".
 
 Jedino mi je ostala dilema u koje Ministarstvo otići ?! KS, Neretvanski, Travnički ... Ima ih' ko "Rokića". 
