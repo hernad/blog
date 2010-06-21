@@ -40,7 +40,7 @@ Meni treba neko ko će prepoznati da se zdravo društvo može graditi "lomeći z
 Samo onaj ko se bude borio za znanje protiv antiznanja, za sistem protiv antisistema, može riješiti ili barem otvoriti proces rješavanja bosanskog pitanja.
 
 
-Nažalost ne znam nikoga ko zadovoljava ove kriterije, a da se ujdeno prijavio na predstojeće izbore :(.
+Nažalost ne znam nikoga ko zadovoljava ove kriterije, a da se prijavio na predstojeće izbore :(.
 
 
 ## Dova
