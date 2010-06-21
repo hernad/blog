@@ -283,7 +283,7 @@ Ova priča se može proširiti i na korištenje odgovarajućeg programerskog env
 
 Na stanovištu sam naime da se prvi programerski koraci NE TREBAJU raditi sa IDE alatima (Integrated developer environment), te da se moraju poštovati standardi. Tu je takođe i problem oslanjanja na jednog vendora (Microsoft), ali o tome drugom prilikom.
 
-## Moja ocjena Programiranju-1
+## Moja ocjena predmetu "Programiranje-1": 8,5
 
 Ono što je najbitnije, PR1 je predmet gdje se stiču konkretne vještine. 
 
