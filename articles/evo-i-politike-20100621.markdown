@@ -29,7 +29,7 @@ Međutim, dosta o tome. Nisam politički analitičar.
 
 Lagumdžija mi je na pamet došao ne kao Dženanin "drug" i SPD-ovac No1, nego kao političar koji je ujedno i priznati **univerzitetski profesor**.
 
-Mene najviše interesuje kakav je Lagumdžijin stav o [bajgorologiji](http://github.com/hernad/blog/blob/master/articles/bajgorologija-ii-polozena.markdown).
+Mene ustvari najviše interesuje kakav je Lagumdžijin stav o [bajgorologiji](http://github.com/hernad/blog/blob/master/articles/bajgorologija-ii-polozena.markdown).
 
 Za mene su ovo i ovakva pitanja glavna.
 
