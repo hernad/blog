@@ -1,5 +1,11 @@
 # Programiranje 1, II parcijalni, 1. put
 
+
+Datum: 21.06.2010
+
+tags: FIT, ispit
+
+
 Bio sam jutros na ovom ispitu.
 
 Nažalost, sam naslov kaže da vrlo lahko može biti i II parcijalni / 2. put :(
@@ -230,7 +236,7 @@ Posebno zato što sam do sada uglavnom pisao o ružnim stranama FIT-a.
 Programiranje-1 je definitivno lijepa strana FIT-a, pa zašto to ne napisati. A ako još nekome budem od pomoći kod polaganja ispita, nikog sretnijeg od mene.
 
 
-## cin.ignore
+## cin.ignore problem, clear_cin() rjesenje
 
 Na kraju da završim tamo gdje sam počeo.
 
@@ -245,4 +251,39 @@ Link na tu [funkciju je ovdje](http://gitorious.org/fit-mostar/pr1/blobs/master/
 
 getline_1 funkcija iz gornjeg primjera koja radi kako treba je [ovdje](http://gitorious.org/fit-mostar/pr1/blobs/master/parc_2_vjezbe/komande.cpp#line124)
 
+
+## Za kraj
+
+Ne bih bio ja-ja da ne kritikujem :)
+
+Za mene je recimo programa na papiru muka poprilična. 
+
+Moguće je međutim da ja nisam uopšte relevantnan po pitanju ovih ocjena. Naime, nakon 20-tak godina rada, za mene je jedino prirodno okruženje za pisanje programa - računar. Ja na svom radnom stolu čestito i ne koristim olovku.
+
+Ono što mene više kopka jeste to da li je moguće primjeniti ["Branin recept"](http://github.com/hernad/blog/blob/master/articles/sta-trebamo-uciti-na-tehnickim-fakultetima-20100616.markdown)
+
+Kako god skontam, u slučaju ovog predmeta bi to bilo moguće. 
+
+Ko nije spremio zadatak, on bi se za seknudu zapetljao u realizaciji, čak da ima za "đžon" skoro identičan zadatak. 
+
+Pa čak da student bazira svoju "pripremu" na skupljanju "džonova", on će toliko vremena utrošiti na traženje pravog "džon"-a da neće ništa stići čestito uraditi.
+
+S druge, strane, onaj koji može prepoznati koji džon/džonovi najbolje odgovaraju onome što se od njega traži na ispitu, taj je već dobrano ovladao materijom. 
+
+Na kraju krajeva,  programer većinu vremena kod rješavanja svojih zadataka stvari rješava gledajući tuđe pattern-e. To nije ništa drugo nego džon na bosanskom :)
+
+Šalu na stranu, mislim da je vještina vještine prepoznavanja odgovarajućih pattern-a ključna za dobrog programera. Zato nastavu, ali i ispit treba ka tome usmjeravati. 
+
+Ova priča se može proširiti i na korištenje odgovarajućeg programerskog environment-a i toolset-a. 
+
+Na stanovištu sam naime da se prvi programerski koraci NE TREBAJU raditi sa IDE alatima (Integrated developer environment), te da se moraju poštovati standardi. Tu je takođe i problem oslanjanja na jednog vendora (Microsoft), ali o tome drugom prilikom.
+
+Ono što je najbitnije, PR1 je predmet gdje se stiču konkretne vještine. 
+
+Ko ovaj ispit pošteno položi, on će se upoznati sa principima programiranja.  A to je stvrha FIT-a. 
+
+Zato je moja ocjena ovom predmetu 8,5 bez dileme :)
+
+
+hernad@bring.out.ba
 
