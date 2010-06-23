@@ -1,5 +1,9 @@
 # Babina 10-tka
 
+Datum: 23.06.2010
+
+tags: samra
+
 Samra je juče imala ispit iz matematike za prijem u srednju školu.
 
 I dobila je 10-ku.
