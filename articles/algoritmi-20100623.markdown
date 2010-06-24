@@ -87,6 +87,8 @@ Vama dobro, njima dobro.
 
 Dobro, a ima li gubitnika ? Gube samo glupani koji su ranije glasali za Vaše nove saveznike. Gube naravno i oni koji će morati čitati Vaše knjige. Ali svi oni su toliko glupi da i ne znaju da gube. Tako ispade da nema gubitnika. Zbog toga je ovaj algoritam **genijalan**.
 
+## Dobar primjer zlata vrijedi
+
 Ovim smo tematiku algoritama obradili kroz dva konkretna, životna primjera.
 
 Svi će se složiti da u procesu učenja dobar primjer zlata vrijedi.
