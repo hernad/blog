@@ -9,7 +9,9 @@ Ali sada neću pisati o samom ispitu. Objasniću prvo šta su algoritmi.
 
 [Algoritam](http://en.wikipedia.org/wiki/Algorithm) je način na koji se neki problem rješi. U formalnoj definiciji se ističe da algoritam mora biti izražen putem **konačnog** broja instrukcija.
 
-Algoritmi su dio našeg svakodnevnog života. Recimo algoritam koji ćete kod naših političara često naći je ovaj:
+Algoritmi su dio našeg svakodnevnog života. 
+
+Primjeri su najbolji za uvođenje u nove pojmove. Zato ću tako i početi:
 
 ## Primjer 1
 
