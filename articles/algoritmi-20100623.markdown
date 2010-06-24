@@ -75,7 +75,7 @@ Ovaj algoritam se može implementirati samo u društvu koje nema nikakve kriteri
 Možete slobodno računati da ćete za objavljivanje vašeg udžbenika naći razumjevanje sa njihove strane. 
 Vama dobro, njima dobro.  
 
-Pa ko gubi ?! Pa gube samo glupani koji su glasali za vaše saveznike, i koji će morati čitati vaše knjige. Ali oni su ionako glupi. Njima to plaho ne smeta.
+Pa ko gubi ?! Gube samo glupani koji su glasali za vaše saveznike, i oni koji će morati čitati vaše knjige. Ali oni su toliko glupi da i ne znaju da gube.
 
 
 hernad@bring.out.ba
