@@ -60,13 +60,13 @@ Pošto smo se ufurali u to šta algoritmi znače, navešću još jedan primjer.
 
 4) Korak 3) ponovite dok ne dobijete željeni broj stranica
 
-4) Prevedite gornje to na vaš maternji jezik
+5) Prevedite to što ste pokupili
 
-5) Sve to malo "začinite" sa nešto svojih rečenica. Nemojte se sekirati ako se to ne uklapa u predhodne tekstovie.
+6) Sve to malo "začinite" sa nešto svojih rečenica. Nemojte se sekirati ako se to ne uklapa u predhodne tekstovie.
 
-6) Dajte ovo na recenziju ljudima koje samo interesuje honorar. 
+7) Dajte ovo na recenziju ljudima koje samo interesuje honorar. 
 
-7) Na kraju stavite: "Neovlašteno kopiranje je zabranjeno po zakonu o autorskim pravima"
+8) Na kraju stavite: "Neovlašteno kopiranje je zabranjeno po Zakonu o autorskim pravima"
 
 
 #### Pretpostavke za uspješnu implementaciju algoritma, dodatne napomene:
@@ -74,6 +74,7 @@ Pošto smo se ufurali u to šta algoritmi znače, navešću još jedan primjer.
 Ovaj algoritam se može implementirati samo u društvu koje nema nikakve kriterije po pitanju znanja i nauke. Preporuka je da pročitate algoritam "Ublehom do pobjede", te da kontaktirate (uspješne) implementatore ovog algoritma. 
 Možete slobodno računati da ćete za objavljivanje vašeg udžbenika naći razumjevanje sa njihove strane. 
 Vama dobro, njima dobro.  
+
 Pa ko gubi ?! Pa gube samo glupani koji su glasali za vaše saveznike, i koji će morati čitati vaše knjige. Ali oni su ionako glupi. Njima to plaho ne smeta.
 
 
