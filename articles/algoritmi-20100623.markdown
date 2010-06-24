@@ -57,7 +57,7 @@ Pošto smo se ufurali u to šta algoritmi znače, navešću još jedan primjer.
 
 3) Opcijom copy browser - paste vaš omiljeni tekst procesor lijepite članke koji vam se čine odgovarajućim
 
-4) Korak 3) ponovite dok ne dobijete željenu debljinu
+4) Korak 3) ponovite dok ne dobijete željeni broj stranica
 
 4) Prevedite gornje to na vaš maternji jezik
 
