@@ -34,6 +34,9 @@ Kada dobijete izbore, postarajte se da **NE dođe do promjena po pitanju ovih pr
 Zato se nemojte slučajno zeznuti da se nakon pobjede opustite, te svom glasačkom tijelu obezbjedite bolje obrazovanje ili bilo šta što bi ova dva elementa promjenila. 
 Zapamtite: **glupost** i **neobrazovanost** su temelj vaše vladavine! Čuvajte ih kao zjenicu oka svoga!
 
+## Jednostavnost, jasnost algoritma
+
+Treba primjetiti kako je predhodni primjer sa stanovišta implementacije **jasan** i **jednostavan**. Algoritam treba uvijek razvijati u ovom pravcu. 
 
 ## Imena algoritama
 
@@ -77,6 +80,9 @@ Ovaj algoritam se može implementirati samo u društvu koje ima totalno poremeć
 
 Preporuka je da proučite algoritam "Ublehom do pobjede", te da kontaktirate (uspješne) implementatore ovog algoritma. 
 Možete slobodno računati da ćete za objavljivanje Vašeg udžbenika naći razumjevanje sa njihove strane. 
+
+## Genijalan algoritam: win-win kombinacija
+
 Vama dobro, njima dobro.  
 
 Dobro, a ima li gubitnika ? Gube samo glupani koji su ranije glasali za Vaše nove saveznike. Gube naravno i oni koji će morati čitati Vaše knjige. Ali svi oni su toliko glupi da i ne znaju da gube. Tako ispade da nema gubitnika. Zbog toga je ovaj algoritam **genijalan**.
