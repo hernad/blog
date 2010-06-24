@@ -71,7 +71,7 @@ Pošto smo se ufurali u to šta algoritmi znače, navešću još jedan primjer.
 
 8) Odvedite recenzente na janjentinu. Poželjno je da ih odvedete na lokalitet Jablanice, ali nije obavezno.  
 
-9) Na kraju, kada obezbjedite sve što je potrebno da Vaše remek-djelo ugleda svjetlo dana,  stavite tačku na i: "Neovlašteno kopiranje je zabranjeno po Zakonu o autorskim pravima"
+9) Na kraju, kada obezbjedite sve što je potrebno da Vaše remek-djelo ugleda svjetlo dana, stavite tačku na i ovim riječima: "Neovlašteno kopiranje je zabranjeno po Zakonu o autorskim pravima"
 
 
 #### Pretpostavke za uspješnu implementaciju algoritma, dodatne napomene:
