@@ -47,9 +47,10 @@ Pošto smo se ufurali u to šta algoritmi znače, navešću još jedan primjer.
 
 ## Primjer 2
 
-#### Problem: Kako najbrže izdati udžbenik sa velikim brojem stranica
+### Problem: Kako najbrže izdati udžbenik sa velikim brojem stranica
 
-#### Rješenje: 
+
+### Rješenje: 
 
 1) Uzmite google
 
