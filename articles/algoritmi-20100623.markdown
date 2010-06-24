@@ -4,7 +4,7 @@ Datum: 24.06.2010
 
 Juče sam radio ispit iz predmeta "Algoritmi i strukture podataka (ASP)".
 
-Pod uticajem tog predmeta objasniću prvo šta su algoritmi.
+Ali sada neću pisati o samom ispitu. Objasniću prvo šta su algoritmi.
 
 
 [Algoritam](http://en.wikipedia.org/wiki/Algorithm) je način na koji se neki problem rješi. U formalnoj definiciji se ističe da algoritam mora biti izražen putem **konačnog** broja instrukcija.
