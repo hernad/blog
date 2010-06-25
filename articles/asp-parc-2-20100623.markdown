@@ -1,0 +1,193 @@
+## ASP drugi parcijalni, 23.06.2010
+
+Datum: 25.06.2010
+
+Prekjuče sam radio zadnji ispit iz ovog junskog turnusa. Juče sam krenuo da napišem nešto o ovom ispitu, ali mi mozak [ode u ovom smjeru](http://github.com/hernad/blog/blob/master/articles/algoritmi-20100623.markdown)
+
+
+## Šta se radi na ASP-u
+
+Algoritmi i strukture podataka (ASP) su mi bez ikakve dileme omiljeni predmet.
+
+Programiranje se i može svesti na dva glavna koraka:
+ 
+  1. pojmiti problem koji se treba programirati (skontaj algoritam)
+  2. "ispričati" taj algoritam na odgovarajućem programskom jeziku
+ 
+ASP se najviše bavi ovim prvim dijelom. 
+
+[PR1](http://github.com/hernad/blog/blob/master/articles/pr1-parc-2-1-put-20100621.markdown) se fokusira na tehnike programiranja, znači praktično na drugu tačku.
+
+Iskreno da kažem kada rješavanje problema pređe u rutinu, rješavanje mi postaje puno manje interesantno. Moja radna motivacija eksponencijalno pada :).
+
+ To je i logično razlog što mi se ASP više sviđa više od PR1. 
+
+ASP je takav da kada stvar skontaš - to je to. Sama implementacija algoritma kojeg kontaš je samo pitanje vremena. U programskom kodu koji trebaš napisati nema nikakvih "zamki". 
+
+Tu nema pointera-na pointere-na-pointere kako to kolege sa PR1 vole zadati da bi vidjeli kako studenti vladaju tehnikama programiranja. 
+Da ne bude nesporazuma, ove zamke su sasvim legitimne i imaju svoju svrhu. Međutim, meni jednostavno nisu interesantne. Ja često na to u svojoj glavi imam problem što moj procesor na takve stvari "padne" jer ih procesira tako što kaže: "Što će mu sad ovo ?!" 
+
+Ali dobro, moj je procesor [model Z80](http://github.com/hernad/blog/blob/master/articles/25-godina-hardware-software-20100606.markdown) pa nije ni čudo što se brzo zapuši :).
+
+Evo mene, opet raju tušim sa svojim digresijama ... 
+
+Vraćam se na ispit
+
+## Zadaci
+
+Ispit je podjeljen na teoretski i praktični dio.
+
+Za razliku od PR1, nismo mogli uzeti listove od zadataka. Nisam siguran da li je to što profesor ne želi da se zadaci "šire" među studentima ili je neki drugi razlog.
+
+Ja ću po sjećanju navesti šta se u mojoj grupi (A) tražilo.
+
+## Teoretski dio
+
+Tražilo se objašnjenje algoritama "merge sort"-a  i "selection sort"-a. Traženo je da se objasne ovi algoritmi na primjeru zadatog niza od 11 brojeva.
+
+To je bio glavni dio zadatka. Pred toga su bila i pitanja:
+ 
+  1. kompleksnost algoritma merge sort (samo navesti)
+  2. selection sort - navesti i izračunati broj usporedbi i premještanja (kol'ko se sjećam)
+
+Drugi zadatak je bilo objašnjenje "shell sort"-a opet za neki drugi zadani niz, sa razmacima 4-2-1.
+
+## Praktični dio
+
+Tu je traženo:
+
+  1. da se napravi C++ kod za FIFO implementaciju reda (FIFO Queue)
+  2. napiše funkcija insertion sorta gdje su argumenti matrica integera i dužina te matrice)
+
+
+## Rješavanje
+
+Pregledao sam zadatke i vidio da FIFO Queue nosi 40 poena. 
+
+Odmah sam krenuo na njegovu implementaciju sa pomisli: "Kakav sam sporać, mogu i ovaj ispit od čiste situacije napraviti veresiju. Uradiću ovaj što nosi najviše bodova prvi dok sam dovoljno koncentrisan".
+
+Interesantno je da je queue dinamička implementacija zadnja stvar koju sam u [srijedu pred polazak u mostar]:(http://gitorious.org/fit-mostar/asp/blobs/master/priprema_parc_2/queue_2.cpp)
+
+Još interesantnije je da sad kada pogledam ovaj kod, ja sam na ispitu skroz drugačije nazive struktura i varijabli koristio. 
+
+Kad sam bio 20 godina mlađi, ja bih garant ovo fotografski zapamtio i zadatak "prepisao" iz memorije pošto mi je bio svjež.
+
+Na ispitu sam međutim kod realizacije prvenstevno radio tako što sam napravio grafičku reprezentaciju reda pa na osnovu nje radio implementaciju. 
+
+Sjećam se da sam Push komandu pogrešno uradio - nisam obradio situaciju kada je glava = NULL, pa sam tu funkciju prekrižio i ponovo je napisao.
+
+Tako je rad trajao nekih 50-tak minuta ako ne i čitav sahat. 
+
+## Vrijeme vrijeme
+
+Nakon Queue-a počeo sam prebirati po tome šta mi je sljedeće najbolje da prevalim 60% ... Vrijeme je već utanjilo. 
+
+Asistenti su, za razliku od PR1, bili eksplicitni u tome da će se držati predviđenih 90 minuta za "parcijalce" odnosno 2 sahata za "integralce".
+
+Malo sam zastao i odlučio da ipak uzmem insertion sort funkciju, jer sam to par puta prolazio ... Rekoh: "valjda ću ovo napamet znati". 
+
+Ali jok. I to sam opet crtao i na osnovu toga pisao. Ma čovječe ja ništa ne mogu napamet naučiti više. Joj joj joj.
+
+Međutim, nakon par kontrola i usporedbe sa skicom algoritma koju sam morao napraviti, mislim sa sam na kraju došao do ispravnog rješenja.
+
+Mislim jer ja redovno kod prve iteracije (prvog pisanja koda) napravim pokoju grešku. 
+
+Da li sam sada pobijedio sebe, vidjećemo.  Kod prvog parcijalnog jesam. Dobio sam maksimum :) 
+
+## hernad sporać
+ 
+Tu sam se ja već približio na manje od pola sahata kraju a da još nisam ništa od teoretskih pitanja uradio.
+
+I tu u pomoć uskače profesor. Dolazi i kaže da pazimo da se odvojeno rade teoretski i praktični dio ispita. Raja se počinje buniti: mi smo pisali zajedno. 
+
+Profesor je međutim krajnje razuman čovjek, pa kaže: "Evo dobićete još 15 minuta za prepisivanje, ali to molim vas prepišite. Uopšte nećete biti bodovani ako budete na istom papiru predali teoriju i praktično". 
+
+Razlog za to je bio taj što je planirano da  pojedinih dijelova rade pojedini nastavnici.
+
+## Hvala ti profesore gdje čuo i gdje ne čuo ...
+
+Ja sam baš započeo pisati odgovore na preskoke u želji da pokažem da stvari znam ... Zato sam selection sort objašnjenje poprilično loše napisao, jer sam mislio da ću za par minuta morati predati rad.
+
+Kako je došlo do produženja roka za pisanje, zadnje teoretsko sam uradio skroz dobro.  
+
+Ono što je najbitnije, mislim da nema dvojbe da se u radu jasno vidi da vladam materijom. 
+
+Sigurno će to biti daleko od 100% sa prve parcijale, ali s obzirom na [moje ciljeve](http://github.com/hernad/blog/blob/master/articles/odakle-ja-na-fitu-20100616.markdown), sve što rezultira ocjenom u indeksu je pun pogodak.
+
+
+Nakon ispita me je ruka u ramenu bolila isto k'o da sam "na hladno" odigrao žestoku partiju stonog tenisa. 
+
+## Završni utisci
+
+ASP je tako napravljen ispit da onaj k'o čestito prođe gradivo. 
+
+### "Nabubati" ?!
+
+Ne znam da li se može "nabubati", vjerovatno može. 
+
+Međutim, ubjeđen sa da je onaj to uzme za strategiju spremanja ovog idpista definitivno **fulao fakultet**. 
+
+### Profesor 
+
+Profesor je doc. dr. Haris Ćupina sa sarajevskog ETF-a. 
+
+Na prvom parcijalnom je bio zadataka za binarnu pretragu.
+
+Ja sam kod pripreme tog algoritma išao na varijantu koja se razlikovala u odnosu na onu sa predavanja. To sam u ispitu i naveo, i naveo link na svoje [vježbe](http://gitorious.org/fit-mostar/asp/blobs/master/bin_search/search_2.cpp). 
+
+Nakon ispita sam mu to preričao. Tačnije, rekao sam mu da mi algoritam za binarnu pretragu iz predavanja nije nikako legao", pa sam pogledao druge varijante na internetu. Ta druga varijanta mi se učinila boljom pa sam se odlučio za nju.
+
+Ukratko u toj mojoj - internet varijanti je unutar while petlje ispitivan "middle" elemenat na jednakost sa traženim elementom. 
+
+Profesor me je saslušao i odmah rekao: "Nema problema, postoji niz varijanti algoritma i koju god da ste odabrali - to je ok. To što ste vi našli je bolje na manjem setu podataka, ali se na većem setu algoritam sa predavanja pokazao bolji. Razlog je taj što je operacija poređenja vremenski zahtjevna". 
+
+Fakat ima smisla... Rekao je takođe da je on to na predavanjima objašnjavao. 
+
+Ono što me je dojmilo jeste činjenica da je maksimalno strpljivo mom pitanju, te je "u sekundi" skontao šta ga pitam i dao krajnje logičan odgovor. Zna čovjek znanje.
+
+Mislim da je čak prilikom ocjenjivanja mog rada ovo uzeo u obzir. Jer ne mogu vjerovati da nisam napravio nijednu grešku u radu. Znam ja mene :). 
+
+
+## Koncept ispita
+
+U ovom [članku](http://github.com/hernad/blog/blob/master/articles/sta-trebamo-uciti-na-tehnickim-fakultetima-20100616.markdown) sam pomenuo "Branin recept". Mislim da većina komentara koje sam pomenuo kod [PR1](http://github.com/hernad/blog/blob/master/articles/pr1-parc-2-1-put-20100621.markdown) po pitanju koncepta ispita, vrijedi i ovdje.
+
+Na tragu te misli, baš bi me interesovalo kako bi studenti uradili ovaj ispit da su mogli koristiti literaturu. 
+
+U toj varijanti bi se definitivno moralo konzervativno pristupiti trajanju ispita. Međutim, ja sam ubjeđen da bi i kod ovog ispita oni koji ne znaju opet bili "trofać". 
+
+Što se tiče onih koji su prošli gradivo i shvatili ga u dovoljnoj mjeri, naravno da bi njihovi rezultati bili znatno bolji od postojećih.
+
+Ja za pripremu ovog ispita napravim otprilike 2 i po čitanja:
+ 
+ * prvi put čitam da skontam o čemu se radi
+ * drugi put da memorišem najbitnije, i tu se ponovo zadržavam kao skoro isto vremenski kao i prvi put
+ * u trećem čitanju prolazim brzo i to je ponavljanje.
+
+
+Po Braninom konceptu bi mi za prolaznu ocjenu vjerovatno bilo dovoljno 1 i po čitanje za 60%. Ali za veću ocjenu razlika bi bila neznatna.
+
+Time dolazim do zaključka da bi "Branin koncept" ostvario veću prolaznost. 
+
+Međutim, mislim da oni koji "pojma nemaju" ne bi prošli. To su oni koje sam [ovdje označio kao  vrsta studenata "ublehari"](http://github.com/hernad/blog/blob/master/articles/tri-vrste-studenata-20100618.markdown). Čak mislim dase takvi upravo nasukaju jer izgube "prednost" koju u odnosu na druge studente imaju na klasičnim ispitima drugim ispitima - džonove :).
+
+Naravno, ispit bi u tom slučaju trebalo modificirati na taj način da se ne može jednostavnim prepisivanjem uraditi zadatak. Tako bi recimo zadaci tipa Queue FIFO morali imati neke modifikacije koje bi onemogućile da studenti jednostavno prepišu primjere sa predavanja i vježbi.
+
+Međutim, pogriješio bih kada bih rekao da postojeća forma ispita ne valja.
+
+
+## ASP rezime
+
+ASP je prirodom stvari jedan od fundamentalnih predmeta. 
+Za pripremu ispita Vam trebaju samo predavanja i vježbe (DL materijali).
+Materijali za predavanja su odlični. Svaka lekcija je praćena odgovarajućim primjerima koji su odlično odabrani. Dobar primjer zlata vrijedi.
+
+U syllabusu je naveden kao jedan od ciljeva:
+
+**Da studenti nauče prepoznati bitno od nebitnog** 
+
+Svaka čast Harise. To je stvarno **bitno naučiti**.
+
+Moja ocjena predmeta je 9. 
+
+hernad@bring.out.ba
