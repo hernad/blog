@@ -178,7 +178,7 @@ Naravno, ispit bi u tom slučaju trebalo modificirati na taj način da se ne mo�
 Međutim, pogriješio bih kada bih rekao da postojeća forma ispita ne valja.
 
 
-## ASP rezime, moja ocjena 9,0
+## ASP rezime
 
 ASP je prirodom stvari jedan od fundamentalnih predmeta. 
 Za pripremu ispita Vam trebaju samo predavanja i vježbe (DL materijali).
@@ -189,6 +189,8 @@ U syllabusu je naveden kao jedan od ciljeva:
 **Da studenti nauče prepoznati bitno od nebitnog** 
 
 Svaka čast Harise. To je stvarno **bitno naučiti**.
+
+## Ocjena predmeta: 9,0
 
 Moja ocjena predmeta je 9. Što nije 10 ? Ma kopka me brate "Branin recept" :).
 
