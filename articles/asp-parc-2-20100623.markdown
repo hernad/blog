@@ -171,7 +171,7 @@ Po Braninom konceptu bi mi za prolaznu ocjenu vjerovatno bilo dovoljno 1 i po č
 
 Time dolazim do zaključka da bi "Branin koncept" ostvario veću prolaznost. 
 
-Međutim, mislim da oni koji "pojma nemaju" ne bi prošli. To su oni koje sam [ovdje označio kao  vrsta studenata "ublehari"](http://github.com/hernad/blog/blob/master/articles/tri-vrste-studenata-20100618.markdown). Čak mislim dase takvi upravo nasukaju jer izgube "prednost" koju u odnosu na druge studente imaju na klasičnim ispitima drugim ispitima - džonove :).
+Međutim, mislim da oni koji "pojma nemaju" ne bi prošli. To su oni koje sam [ovdje označio kao  vrsta studenata "ublehari"](http://github.com/hernad/blog/blob/master/articles/tri-vrste-studenata-20100618.markdown). Čak mislim dase takvi upravo nasukaju jer izgube "prednost" koju u odnosu na druge studente imaju na "klasičnim" ispitima - džonove :).
 
 Naravno, ispit bi u tom slučaju trebalo modificirati na taj način da se ne može jednostavnim prepisivanjem uraditi zadatak. Tako bi recimo zadaci tipa Queue FIFO morali imati neke modifikacije koje bi onemogućile da studenti jednostavno prepišu primjere sa predavanja i vježbi.
 
