@@ -182,7 +182,9 @@ Međutim, pogriješio bih kada bih rekao da postojeća forma ispita ne valja.
 
 ASP je prirodom stvari jedan od fundamentalnih predmeta. 
 Za pripremu ispita Vam trebaju samo predavanja i vježbe (DL materijali).
-Materijali za predavanja su odlični. Svaka lekcija je praćena odgovarajućim primjerima koji su odlično odabrani. Dobar primjer zlata vrijedi.
+Materijali za predavanja su odlični. Svaka lekcija je praćena odgovarajućim primjerima koji su dobro odabrani. U procesu učenja dobar primjer zlata vrijedi. 
+
+Dobri primjeri su istovremeno jednostavni (neopterećeni suvišnim detaljima) i kompletni (sadrže sve što je potrebno da se shvati tema koja se obrađuje). Kod ASP-a svi primjeri zadovoljavaju ove kriterije.
 
 U syllabusu je naveden kao jedan od ciljeva:
 
