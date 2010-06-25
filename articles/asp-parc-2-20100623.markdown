@@ -90,7 +90,7 @@ Malo sam zastao i odlučio da ipak uzmem insertion sort funkciju, jer sam to par
 
 Ali jok. I to sam opet crtao i na osnovu toga pisao. Ma čovječe ja ništa ne mogu napamet naučiti više. Joj joj joj.
 
-Međutim, nakon par kontrola i usporedbe sa skicom algoritma koju sam morao napraviti, mislim sa sam na kraju došao do ispravnog rješenja.
+Međutim, nakon par kontrola i usporedbe sa skicom algoritma po kojoj sam kontrolisao napisani kod, trebalo bi da sam na kraju došao do ispravnog rješenja.
 
 Mislim jer ja redovno kod prve iteracije (prvog pisanja koda) napravim pokoju grešku. 
 
@@ -100,34 +100,34 @@ Da li sam sada pobijedio sebe, vidjećemo.  Kod prvog parcijalnog jesam. Dobio s
  
 Tu sam se ja već približio na manje od pola sahata kraju a da još nisam ništa od teoretskih pitanja uradio.
 
-I tu u pomoć uskače profesor. Dolazi i kaže da pazimo da se odvojeno rade teoretski i praktični dio ispita. Raja se počinje buniti: mi smo pisali zajedno. 
+I tu u pomoć uskače profesor. Dolazi i kaže da pazimo da se odvojeno rade teoretski i praktični dio ispita. Raja se počinje buniti. Govore: "Mi smo pisali zajedno, šta sad da radimo !?". 
 
-Profesor je međutim krajnje razuman čovjek, pa kaže: "Evo dobićete još 15 minuta za prepisivanje, ali to molim vas prepišite. Uopšte nećete biti bodovani ako budete na istom papiru predali teoriju i praktično". 
+Profesor je međutim skroz susretljiv, pa kaže: "Evo dobićete još 15-30 minuta za prepisivanje, koliko god vam treba, ali to morate vas prepisati. Uopšte nećete biti bodovani ako na istom papiru budete predali teoriju i praktični dio". 
 
-Razlog za to je bio taj što je planirano da  pojedinih dijelova rade pojedini nastavnici.
+Objasno je da je razlog za to način pregleda radova: različiti ljude će raditi pregled teoretskog, odnosno praktičnog dijela.
 
 ## Hvala ti profesore gdje čuo i gdje ne čuo ...
 
-Ja sam baš započeo pisati odgovore na preskoke u želji da pokažem da stvari znam ... Zato sam selection sort objašnjenje poprilično loše napisao, jer sam mislio da ću za par minuta morati predati rad.
+Ja sam baš započeo pisati odgovore na preskoke u želji da barem pokažem da znam odgovore na pitanja... 
+Zato sam recimo selection sort objašnjenje dosta loše napisao - na preskoke. Mislio sam ću za par minuta morati predati rad.
 
-Kako je došlo do produženja roka za pisanje, zadnje teoretsko sam uradio skroz dobro.  
+Kako je došlo do produženja roka za pisanje, ostale dijelove sam uradio puno bolje.
 
-Ono što je najbitnije, mislim da nema dvojbe da se u radu jasno vidi da vladam materijom. 
+Ono što je najbitnije, mislim da sam napisao dovoljno, i da je ono što je napisano, ako ne tačno, onda nije ni lupetanje :). 
 
 Sigurno će to biti daleko od 100% sa prve parcijale, ali s obzirom na [moje ciljeve](http://github.com/hernad/blog/blob/master/articles/odakle-ja-na-fitu-20100616.markdown), sve što rezultira ocjenom u indeksu je pun pogodak.
-
 
 Nakon ispita me je ruka u ramenu bolila isto k'o da sam "na hladno" odigrao žestoku partiju stonog tenisa. 
 
 ## Završni utisci
 
-ASP je tako napravljen ispit da onaj k'o čestito prođe gradivo. 
-
-### "Nabubati" ?!
+ASP je tako napravljen ispit da onaj k'o čestito prođe gradivo ne bi trebao imati bilo kakvih problema sa polaganjem. 
+ 
+### Recept: "nabubaj" ?
 
 Ne znam da li se može "nabubati", vjerovatno može. 
 
-Međutim, ubjeđen sa da je onaj to uzme za strategiju spremanja ovog idpista definitivno **fulao fakultet**. 
+Međutim, ubjeđen sa da je onaj to uzme za strategiju spremanja ovog  **definitivno fulao fakultet**. 
 
 ### Profesor 
 
@@ -178,7 +178,7 @@ Naravno, ispit bi u tom slučaju trebalo modificirati na taj način da se ne mo�
 Međutim, pogriješio bih kada bih rekao da postojeća forma ispita ne valja.
 
 
-## ASP rezime
+## ASP rezime, moja ocjena 9,0
 
 ASP je prirodom stvari jedan od fundamentalnih predmeta. 
 Za pripremu ispita Vam trebaju samo predavanja i vježbe (DL materijali).
@@ -190,6 +190,6 @@ U syllabusu je naveden kao jedan od ciljeva:
 
 Svaka čast Harise. To je stvarno **bitno naučiti**.
 
-Moja ocjena predmeta je 9. 
+Moja ocjena predmeta je 9. Što nije 10 ? Ma kopka me brate "Branin recept" :).
 
 hernad@bring.out.ba
