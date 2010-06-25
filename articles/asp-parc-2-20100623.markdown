@@ -18,24 +18,25 @@ ASP se najviše bavi ovim prvim dijelom.
 
 [PR1](http://github.com/hernad/blog/blob/master/articles/pr1-parc-2-1-put-20100621.markdown) se fokusira na tehnike programiranja, znači praktično na drugu tačku.
 
-Iskreno da kažem kada rješavanje problema pređe u rutinu, rješavanje mi postaje puno manje interesantno. Moja radna motivacija eksponencijalno pada :).
+Da budem iskren, kada u svakodnevnom poslu rješavanje problema pređe u rutinu, zadatak mi postaje neinteresantan. Moja radna motivacija počinje eksponencijalno padati :).
 
- To je i logično razlog što mi se ASP više sviđa više od PR1. 
+ Zato je valjda i normalno da mi se ASP više sviđa više od PR1. 
 
 ASP je takav da kada stvar skontaš - to je to. Sama implementacija algoritma kojeg kontaš je samo pitanje vremena. U programskom kodu koji trebaš napisati nema nikakvih "zamki". 
 
 Tu nema pointera-na pointere-na-pointere kako to kolege sa PR1 vole zadati da bi vidjeli kako studenti vladaju tehnikama programiranja. 
-Da ne bude nesporazuma, ove zamke su sasvim legitimne i imaju svoju svrhu. Međutim, meni jednostavno nisu interesantne. Ja često na to u svojoj glavi imam problem što moj procesor na takve stvari "padne" jer ih procesira tako što kaže: "Što će mu sad ovo ?!" 
+Da ne bude nesporazuma, ove "zamke" su sasvim legitimne i imaju svoju svrhu u PR1. Međutim, meni jednostavno nisu drage. 
+Ja često na to u svojoj glavi imam problem što moj mozak na takve stvari "padne" jer ih procesira tako što umjesto da traži rješenje postavlja pitanje: "Što se sad ovo uopšte pojavi ?!" 
 
 Ali dobro, moj je procesor [model Z80](http://github.com/hernad/blog/blob/master/articles/25-godina-hardware-software-20100606.markdown) pa nije ni čudo što se brzo zapuši :).
 
-Evo mene, opet raju tušim sa svojim digresijama ... 
+Evo mene, opet ja odoh u neku skroz desetu temu ... 
 
-Vraćam se na ispit
+Vraćam se na ispit.
 
 ## Zadaci
 
-Ispit je podjeljen na teoretski i praktični dio.
+Ispit je bio podjeljen na teoretski i praktični dio.
 
 Za razliku od PR1, nismo mogli uzeti listove od zadataka. Nisam siguran da li je to što profesor ne želi da se zadaci "šire" među studentima ili je neki drugi razlog.
 
