@@ -67,15 +67,16 @@ Pregledao sam zadatke i vidio da FIFO Queue nosi 40 poena.
 
 Odmah sam krenuo na njegovu implementaciju sa pomisli: "Kakav sam sporać, mogu i ovaj ispit od čiste situacije napraviti veresiju. Uradiću ovaj što nosi najviše bodova prvi dok sam dovoljno koncentrisan".
 
-Interesantno je da je queue dinamička implementacija zadnja stvar koju sam u [srijedu pred polazak u mostar]:(http://gitorious.org/fit-mostar/asp/blobs/master/priprema_parc_2/queue_2.cpp)
+Interesantno je da je queue dinamička implementacija zadnja stvar koju sam u [srijedu pred polazak u mostar](http://gitorious.org/fit-mostar/asp/blobs/master/priprema_parc_2/queue_2.cpp). Prava sreća.
 
-Još interesantnije je da sad kada pogledam ovaj kod, ja sam na ispitu skroz drugačije nazive struktura i varijabli koristio. 
+Još interesantnije je da sad kada pogledam kod koji sam vježbao pred ispit, ja sam na ispitu samo par sahata kasnije skroz drugačije nazive struktura i varijabli koristio :(. 
 
-Kad sam bio 20 godina mlađi, ja bih garant ovo fotografski zapamtio i zadatak "prepisao" iz memorije pošto mi je bio svjež.
+Mislim da bih prije 20 godina u ovakvoj situaciji zadatak bukvalno prepisao iz glave u roku od 15-tak minuta.
+Ali to više očigledno ne ide. RAM mi se smanjuje i po kapacitetu i po "storage time"-u :).
 
-Na ispitu sam međutim kod realizacije prvenstevno radio tako što sam napravio grafičku reprezentaciju reda pa na osnovu nje radio implementaciju. 
+Zato sam  na ispitu kod realizacije radio tako što sam napravio grafičku reprezentaciju reda, pa na osnovu nje radio implementaciju. 
 
-Sjećam se da sam Push komandu pogrešno uradio - nisam obradio situaciju kada je glava = NULL, pa sam tu funkciju prekrižio i ponovo je napisao.
+Sjećam se da sam "Push" komandu pogrešno uradio - nisam obradio situaciju kada je glava = NULL, pa sam tu funkciju prekrižio i morao je ponovo ispisati.
 
 Tako je rad trajao nekih 50-tak minuta ako ne i čitav sahat. 
 
