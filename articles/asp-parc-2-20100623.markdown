@@ -9,9 +9,9 @@ Prekjuče sam radio zadnji ispit iz ovog junskog turnusa. Juče sam krenuo da na
 
 Algoritmi i strukture podataka (ASP) su mi bez ikakve dileme omiljeni predmet.
 
-Programiranje se i može svesti na dva glavna koraka:
+Programiranje se i svodi na dvije stvari:
  
-  1. pojmiti problem koji se treba programirati (skontaj algoritam)
+  1. shvatiti problem koji se treba programirati (skontaj algoritam)
   2. "ispričati" taj algoritam na odgovarajućem programskom jeziku
  
 ASP se najviše bavi ovim prvim dijelom. 
