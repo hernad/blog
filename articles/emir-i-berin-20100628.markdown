@@ -108,11 +108,11 @@ Izvinite, za informatiku treba dar. Ako ga Berin ima, a po meni ima, onda bi bil
 
 Slična stvar je sa UPR-om. UPR mora biti filter za ljude koji ne usvoje polazne elemente programiranja. 
 
-Ja jednostavno ne  mogu skontati kako neko ko (pošteno) položi Algoritme bez problema nije kandidat da "žmirećki" položi UPR.
+Ja jednostavno ne mogu skontati kako to da neko ko glatko položi Algoritme nije kandidat da "žmireći" položi UPR.
 
-Sve ovo što pišem je čista spekulacija. Nit sam vidio šta je Berin pisao na UPR-u, niti na osnovu jednog razgovora u autu mogu tvrditi šta Berin zna i šta može. 
+Sve ovo što pišem je čista spekulacija. Nit' sam vidio šta je Berin pisao na UPR-u, niti na osnovu jednog razgovora u autu mogu tvrditi šta Berin zna i šta može. 
 
-Možda bi, kad bih vidio njegov rad, ja prvi prokomentarisao: "Tebi je sine najbolje da tražiš negdje drugdje selameta ...".
+Možda bi, kad bih vidio njegov rad, ja prvi prokomentarisao: "Tebi je sine najbolje da tražiš negdje drugdje selameta ...". Možda, al' teško.
 
 ## Da li je sistemski bug "if-UPR then PR1" ? 
 
@@ -122,24 +122,24 @@ Međutim, ako sam dobro procijenio Berina, onda bi ovo mogao biti indikator jedn
 
 O Emiru nisam puno napisao. Valjda što za njega nema zime :)
 
-Emir je dok smo mi pričali o clam-avu, VoIP-u, hakerima i sličnim informatičkim "vječnim temama", šutio. I slušao. Upijao. 
-Emir je u stvari tek na FIT-u načeo programiranje i ozbiljnije informatičke teme. Emir je ko spužva. 
+Emir je, dok smo Berin i ja pričali o clam-avu, VoIP-u, hakerskim upadima i sličnim informatičkim "vječnim temama", šutio. I slušao. Upijao. 
+Emir se u stvari tek na FIT-u susreo ozbiljnije sa informatikom. 
 
-Pažljiv, sve ga interesuje. On "hvata" naše teme i memoriše keywords (VoIP, SIP, ....) da ih kada dođe kući može prostudirati.
+Emir je ko spužva. Pažljiv, sve ga interesuje. "Hvata" što mi pričamo, memoriše "keywords" (VoIP, SIP, ....) da ih kada dođe kući može prostudirati.
 
 Za razliku od Berina, koji je na fakultet došao sa puno više znanja (ali i puno manje predanosti) Emir je k'o otvorena knjiga. 
 
-Emir pripada bez ikakve dvojbe pripada grupi [sposobnih studenata](http://github.com/hernad/blog/blob/master/articles/tri-vrste-studenata-20100618.markdown).  
+Emir je klasični predstavnik [sposobnih studenata](http://github.com/hernad/blog/blob/master/articles/tri-vrste-studenata-20100618.markdown).  
 
-Emir ima sve predispozicije da sutra bude radnik kakvog se samo poželjeti može. Ali, u Emirovom slučaju krajnji ishod puno više ovisi o konceptu fakulteta.
+Emir ima sve predispozicije da sutra bude radnik kakvog se samo poželjeti može.  Međutim, u Emirovom slučaju krajnji ishod uveliko ovisi o fakultetu.
 
-Zbog Emira i njemu sličnih sam počeo pisati o [Bajgorologiji](http://github.com/hernad/blog/blob/master/articles/bajgorologija-ii-polozena.markdown) i [onome šta se treba učiti na fakultetima](http://github.com/hernad/blog/blob/master/articles/sta-trebamo-uciti-na-tehnickim-fakultetima-20100616.markdown)
+Upravo zbog Emira i njemu sličnih sam počeo pisati o [bajgorologiji](http://github.com/hernad/blog/blob/master/articles/bajgorologija-ii-polozena.markdown), o tome [šta se treba učiti na fakultetima](http://github.com/hernad/blog/blob/master/articles/sta-trebamo-uciti-na-tehnickim-fakultetima-20100616.markdown)
 
-Emir sam još ne može razlučiti šta je ubleha a šta pravo znanje. On će učiti šta god mu se zada, i misliće da je to-to.
+Emir sam još ne može razlučiti šta je ubleha a šta pravo znanje. A i kako bi kada tek usvaja pojmove. On će učiti šta god mu se zada, I misliće da je to-to.
 
-Fakultet je taj koji se mora postarati da mu se obezbjedi **znanje**, a da ga kutariše **ubleha**.
+Fakultet je taj koji se mora postarati da mu se kroz studije obezbjedi **znanje**, a da ga kutariše **ubleha**.
 
-Bila bi velika šteta da tamo negdje za 10 godina sretnem Emira koji se bavim nekim desetim poslom, a ne informatikom. 
+Bila bi velika šteta da tamo negdje za 10 godina sretnem Emira koji se bavim nekim desetim poslom (npr. "menadžer" za sve i svašta) umjesto da bude informatičar. 
 
 A to je izvjestan scenario ako mu fakultet obezbjedi obrazovanje koje ima rupa više nego švajcarski sir.
 
@@ -152,6 +152,13 @@ Hah ... Berin. Berin ako se trzne (to je moj dojam) no će FIT rasturit'. Ali se
 Čija je to krivica, ako se stvari budu ovako završile ? Naravno, Berinova. Ne bojte se, nije za sve kriv FIT i naopak obrazovni sistem. Niko ne može Berina natjerati da zagrije stolicu do on sam. 
 
 Ali istina je i to da dobar koncept studija ovakve studente može animirati, a loš [ogaditi](http://github.com/hernad/blog/blob/master/articles/kad-ti-nesto-ili-neko-ogadi-fakultet-20100620.markdown).
+
+
+## Za kraj
+
+Emir i Berin nisu izmišljeni likovi. Istina je takođe da bih bio obična budala kada bih rekao da sam u toku vožnje Sarajevo-Mostar Emira i Berina bolje poznajem nego njihovi babo i mater. 
+
+Ali nije u tome poenta. Znam da emiri i berini iz ove priče postoje, čak i ako se ispostavi da to nisu Emir i Berin koje sam upoznao.
 
 
 hernad@bring.out.ba
