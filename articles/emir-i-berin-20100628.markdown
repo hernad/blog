@@ -18,27 +18,31 @@ Sigurno se to može pripisati mojoj prirodnoj radoznalosti, ali i činjenici da 
 
 Moja mati je inače bila sudija. 
 
-Kada sam bio mladić, ona je svoje isljedničke vještine redovno koristila da ispita kako stvari stoje. Tako, čim bi neko od mojih drugova ostao sam sa njom, taj bi sa par pitanja doživio šah-mat. Moja bi svojim unakrsnim ispitivanjem redovno došla do naših najvećih mladalačkih tajni :)
+Kada sam bio mladić, ona je svoje isljedničke vještine redovno koristila da ispita kako stvari stoje. Tako, čim bi neko od mojih drugova ostao sam sa njom, taj bi sa par pitanja doživio šah-mat. Mati bi tako svojim unakrsnim ispitivanjem bez problema došla do svih informacija koje su joj interesantne, a od mene ih nije mogla izvući :)
 
 ## FIT-ovci, a nisu "starohani"
 
-Prva stvar koju sam uočio kod Emira i Berina je da su to mladi ljudi koji su vjerovatno iz srednje friško izašli. Tako je i bilo. Obojica su upisali FIT odmah nakon srednje. 
+Prva stvar koju sam uočio kod Emira i Berina je da su to mladi ljudi koji su vjerovatno iz srednje friško izašli. To se i ispostavilo. Obojica su upisali FIT odmah nakon srednje. 
 
 Emir je završio drugu gimnaziju, a Berin elektro na Buća Potoku.
 
 ## ETF-ova legendarna matematika
 
-"Pa dobro, kako odabraste FIT ?" Bilo mi je prvo pitanje. Emir je pričljiviji, pa on u većini i odgovara: "Ma razmišljao sam ja o ETF-u, ali njihova matematika ... Poobaraše raju, ne možeš se iz toga izvući".
+"Pa dobro, kako odabraste FIT ?", bilo je moje prvo pitanje. Emir je pričljiviji, pa on i odgovara: "Ma razmišljao sam ja o ETF-u, ali njihova matematika ... Poobaraše raju, ne možeš se iz toga izvući".
 
 "Znači, oni vazda isto guslaju sa tom svojom matematikom ..." 
 
-Kako on to reće, tako se sjetih narandžastih tvrdih korica "Ljaška" (op. aut zbirka zadataka iz matematike). Čak sam i onaj miris knjige i grafitne olovke osjećao u nozdrvama. Iza Ljaška mi se pojavi Galić (op.aut tadašnji profesor matematike I na ETF-u), sa svojim dubokim glasom i karakterističnom pojavom - mrk i k'o stijena visok.
+Kako on to reće, tako se sjetih narandžastih tvrdih korica "Ljaška" (op. aut zbirka zadataka iz matematike). Čak sam i onaj miris knjige i grafitne olovke osjetio. Iza Ljaška mi se ukaza Galić (op.aut tadašnji profesor matematike I na ETF-u), sa svojim dubokim glasom i karakterističnom pojavom - mrk, k'o stijena visok.
 
-Ne mogu ja griješit' dušu i reći da me je taj čovjek patio. Kad sam uradio ispit za prolaz, tad' sam i prošao. Čak mi je na usmenom, kol'ko se sjećam i ocjenu povećao ...  Ali da je sve to bilo malo previše - jeste.
+Ne mogu ja griješit' dušu i reći da me je taj čovjek patio. Kad sam uradio ispit za prolaz, tad' sam i prošao. Čak mi je na usmenom, kol'ko se sjećam i ocjenu povećao ...  Ali da je sve to bilo previše - jeste. Nastava matematike na ETF-u ne može biti ista kao na PMF-u (Prirodni matematski fakultet). A tako je to otprilike bilo.
 
 [Meni Galić nije sudbinu odredio](http://github.com/hernad/blog/blob/master/articles/25-godina-hardware-software-20100606.markdown), ali mnogima jeste. 
 
-Da li je [Galićeva matematika bila filter za ublehare ?](http://github.com/hernad/blog/blob/master/articles/tri-vrste-studenata-20100618.markdown) ? Naravno da jeste. Ali je bila filter i za mnoge sposobne. Znači da filter nije bio dobro podešen. Iz Emirove priče sam shvatio da ETF nije plaho na tom konceptu mijenjao ... A to je definitivno šteta.
+Da li je [Galićeva matematika bila filter za ublehare ?](http://github.com/hernad/blog/blob/master/articles/tri-vrste-studenata-20100618.markdown) ? Naravno da jeste. Ali je bila filter i za mnoge sposobne. 
+
+Ako je to tačno, onda filter nije bio dobro podešen. 
+
+Iz Emirove priče sam shvatio da ETF nije plaho na tom konceptu mijenjao ... A to je definitivno šteta.
 
 Pitao sam ih nakon toga kako stoje sa ispitima. Emir je kao i obično prvi počeo: "Dobro je, hvala Bogu. Nisam siguran za [PR1](http://github.com/hernad/blog/blob/master/articles/pr1-parc-2-1-put-20100621.markdown), ali ovo ostalo je dobro. Ima još taj AKS u subotu, Algoritme sam danas dobro uradio ..."
 
