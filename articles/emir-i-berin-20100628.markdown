@@ -156,9 +156,9 @@ Ali istina je i to da dobar koncept studija ovakve studente može animirati, a l
 
 ## Za kraj
 
-Emir i Berin nisu izmišljeni likovi. Istina je takođe da bih bio obična budala kada bih rekao da sam u toku vožnje Sarajevo-Mostar Emira i Berina bolje poznajem nego njihovi babo i mater. 
+Emir i Berin nisu izmišljeni likovi. Istina je takođe da bih bio obična budala kada bih rekao da sam u toku vožnje Sarajevo-Mostar Emira i Berina "bolje poznajem nego njihovi babo i mater". Takav freak nisam :)
 
-Ali nije u tome poenta. Znam da emiri i berini iz ove priče postoje, čak i ako se ispostavi da to nisu Emir i Berin koje sam upoznao.
+Ali u mojoj procjeni i tome poenta. Znam da emiri i berini iz ove priče postoje, čak i da se ispostavi da to nisu Emir i Berin koje sam upoznao.
 
 
 hernad@bring.out.ba
