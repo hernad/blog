@@ -6,15 +6,15 @@ Baš kako sam nakon polaganja i [procijenio](http://github.com/hernad/blog/blob/
 
 II parcijalni sam dobio 56%, ili ti ga 6-. 
 
-Uh baš mi je drago. Da sam pao, za što je zehra falila :), valjalo bi opet vježbati za ispit. Moram reći da bi mi to bila "fjaka". Ali na stranu to da li bi sa zadovoljstvom ili ne spremao ispit, problem je *vrijeme*.
+Uh baš mi je drago. Da sam pao, za što je zehra falila :), valjalo bi opet vježbati za ispit. Moram reći da bi mi to bila teška "fjaka". Ali na stranu to da li bi mi bilo mrsko ili ne spremati ispit, problem je **vrijeme**.
 
 Za ove junske "parcijale" sam već potrošio dvije hefte. Mora se brate šta god i posla uraditi.
 
-h2. Ocjenjivanje
+## Ocjenjivanje
 
 Kada sam nakon prošlog ispita napisao svoje utiske o Denisu, Fernala (op.aut Zeničkanka, moja mentorica) je na facebook-u prokomentarisala: "Taj će te čovjek još oduševiti".
 
-I stvarno jeste. Oduševio me je jer mi je galantno dao prolaz :). Ali me je oduševio i zato što za konačnu ocjenu nije uzeo aritmetičku sredinu. 
+I stvarno jeste. Oduševio me je jer mi je galantno dao prolaz :). Shala mala. Oduševio me je zato što za konačnu ocjenu nije uzeo aritmetičku sredinu. 
 
 U algoritam utvrđivanja konačne ocjene očigledno su stavljeni i dodatni elementi osim ocjena radova. Nazvaću to "ukupan dojam". 
 
@@ -26,48 +26,56 @@ Na osnovu godina ?! Onda bih trebao dobiti čistu peticu :).
 
 Na osnovu mog članka, u kome sam ja de-facto uradio jedan dodatni zadatak ?! Ne znam.
 
-Nije ni bitno. Ono što je bitno jeste da se kod ocjenjivanja na ovom predmetu očigledno zauzima jedan cjelovit pristup.
+Nije ni bitno. Ono što je bitno jeste da se kod ocjenjivanja na ovom predmetu očigledno zauzima jedan **cjelovit** pristup.
 
-Za razliku od pristupa koji se zove: ne mogu ja vama dati ocjenu veću ... doće mi inspekcija ... postoji zakon ... ili "tako to mora biti".
+Na PR1 se očigledno ne drže rezona: Ne mogu ja vama dati ocjenu veću ... doće mi inspekcija ... postoji zakon ... ili "tako to mora biti".
 
-I opet kao i mnogo puta, ja ovo pripisujem Denisu. Možda kod ocjenjivanja glavnu ulogu ima profesor ? Možda je ovo rezultat njegovih uputa: "Kolege čitajte između redova, ako vidite da neko zna, nemojte se slijepo držati rezultata ispita ..."
+Ja ovo onako napamet, na osnovu Fernaline sugestije, pripisujem Denisu. Možda kod ocjenjivanja glavnu ulogu ima profesor ? Možda je ovo rezultat njegovih uputa: "Kolege čitajte između redova, ako vidite da neko zna, nemojte se slijepo držati rezultata ispita ..."
 
 Kako god bilo, to je ispravan princip. 
 
-Što se mene tiče, da mi je za konačnu ocjenu utvrđena 6, meni bi bilo dovoljno. Bilo bi me malo stid, al' bih to brzo "progutao". Činjenica da je ispit ipak položen i da ne moram više vremena trošiti na spremanje bi taj stid brzo "potušila" :)
+Što se mene tiče, da mi je za konačnu ocjenu utvrđena 6, meni bi bilo dovoljno. Bilo bi me malo stid, al' bih to brzo "progutao". Činjenica da više ne moram trošiti vijeme na spremanje ispita bi taj stid brzo "potušila" :)
 
 ## UPR seminarski, konačna ocjena
 
 Za predmet "Uvod u programiranje" sam kao uslov imao pisanje seminarskog. 
 
-Seminarski sam razvlačio k'o žvaku mjesecima. Jer nisam mogao naći naku smislenu temu. I još bih ja to razvlačio da pred I parcijalni nisam skontao da na PR1 parcijalni ne mogu bez tog seminarskog izaći. 
+Seminarski sam razvlačio "k'o žvaku" mjesecima. Zato jer nisam mogao naći naku smislenu temu. Fernala mi je par puta sugerisala: "Daj bolan Ernade uzmi nešto i napiši ... Ko će to što ti kontaš raditi uopšte čitati". 
 
-Tema je bila odabarana po principu: "Šta najprije uraditi ? Ah pa ono što najbolje znam - napravi nešto iz svog posla". 
+Ali ta moja borba sa samim sobom i tvrdoglavi stav: "Kad radim daj da radim nešto što je smisleno" je uzrokovala daljnim odlaganjem. Tu su naravno i obaveze na poslu, ali ovo prvo je bila glavna prepreka.
+
+I još bih ja to razvlačio da pred I parcijalni nisam skontao da na PR1 parcijalni ne mogu bez tog seminarskog izaći. 
+
+Tema sam onda brzopotezno odabrao držeći se (napokon) pragmatičnih kriterija: "Šta najprije uraditi ? Ah da, ono što najbolje znam - napraviću nešto iz svog posla". 
+
 I onda sam u toku jednog dana napisao [seminarski](http://gitorious.org/fit-mostar/upr/blobs/master/seminarski/seminarski.pdf)
 
-Na odbrani seminarskog sam shvatio da je seminarski bio dobar. Ustvari odličan. Čak je svojoj kolegici pokazala, a ova prokomentarisala: "Još malo dodati pa eto ti diplomski ...".  Ta odbrana se sastojala u tome da se utvrdi da li sam ja to pisao, jer je očigledno masovna pojava da se seminarski jednostavno "podžoni". Ja sam na to pomislio: Čuj da podžonim ... pa gdje bih od srama se sakrio ...".
+Na odbrani seminarskog sam shvatio da je seminarski bio dobar. Ustvari odličan. Čak je svojoj kolegici pokazala, a ova prokomentarisala: "Još malo dodati pa eto ti diplomski ...".  Ta odbrana se sastojala u tome da se utvrdi da li sam ja to pisao, jer je očigledno masovna pojava da se seminarski jednostavno "podžoni". Ja sam na to pomislio: "Čuj da podžonim ... pa gdje bih od srama se sakrio ...".
 
-Bilo kako bilo, taj seminarski je znači bio rad koji je rekao: ovaj student poznaje materiju odlično. 
+Bilo kako bilo, taj seminarski je, pokazalo se, bio rad za čistu desetku.
 
 Razgovor se završio time što mi  je asistentica rekla: "Kolega, onda dobro, upisaćemo Vam ocjenu koju ste imali na ETF-u". 
 
-"Super, znači taj ispit je gotov", to je sve što sam tada pomislio.
+"Super, znači UPR je gotov", to je sve što sam tada pomislio.
 
-Ali kada sam došao kući, pitao sam Dženanu (op.aut koja je inače asistent na sarajevskoj Filozofiji): "Reci mi da li su oni morali dati konačnu ocjenu koja je prepisivanje stare ?".  "Ne nisu", odgovorila je. "Ako bih utvrdila da student treba dobiti više, ja bih dala veću ocjenu". Eto studenti Psihologije, sad imate crno  na bijelo ako se nađete kod moje hanume u sličnoj situaciji :)
+Međutim, kada sam došao kući, "upalile su mi se lampice". Čekaj malo, ako je to tako dobar rad, što mi ne reče: "Kolega, odlično 10".
 
-Moguće je da su asistentici UPR-a "vezane ruke". Moguće da profesor takvo što ne bi dozvolio. Moguće je međutim, da je to algoritam po pitanju "tako to inače hoda ...". A ja vam te algoritme baš ne volim.
+Zato sam pitao Dženanu (op.aut koja je inače asistent na sarajevskoj Filozofiji) kako bi ona postupila: "Reci mi da li su oni morali dati konačnu ocjenu koja je prepisivanje stare ?".  "Ne nisu", odgovorila je. "Ako bih utvrdila da student treba dobiti više, ja bih mu dala veću ocjenu". Eto studenti Psihologije, sad imate crno  na bijelo ako se nađete kod moje hanume u sličnoj situaciji :)
 
-Kad sam upisao FIT i došao kod svojih prijatelja u Disti, neko je prokomentarisao: "Da se mi pitamo, ti bi dobio počasnu diplomu :)".  E moj Hadžija (op.aut Eldar koga zovu Hadžija) pomislio sam: Da se ja pitam ja nikad ne bih [studirao ...](http://github.com/hernad/blog/blob/master/articles/odakle-ja-na-fitu-20100616.markdown). Ovu "titulu" od Distijevaca sam vjerovatno zaradio na osnovu Almirovih (op.aut moj drug direktor Distija) priča o mojim [ratnim informatičkim vratolomijama](http://github.com/hernad/blog/blob/master/articles/25-godina-hardware-software-20100606.markdown).   
+Moguće je da su asistentici UPR-a "vezane ruke". Moguće da profesor takvo što ne bi dozvolio. Moguće je međutim, da je to algoritam "tako to inače hoda, tako to mora biti ...". A ja ovaj zadnji algoritam nikako ne volim :(.
 
-Moji nastavnici na FIT-u ne mogu znati da se informatikom bavim skoro koliko su oni stari. Pa i da znaju, ko zna kakva je to informatika. Ljudi i trgovinu računarima zovu informatikom.
+Kad sam upisao FIT i došao kod svojih prijatelja u Disti, Hadžija je prokomentarisao: "Da se mi pitamo, ti bi dobio počasnu diplomu :)".  E moj Hadžija (op.aut Eldar koga zovu Hadžija) pomislio sam: Da se ja pitam ja nikad ne bih [studirao ...](http://github.com/hernad/blog/blob/master/articles/odakle-ja-na-fitu-20100616.markdown). Ovu "titulu" od Distijevaca sam vjerovatno zaradio na osnovu Almirovih (op.aut direktor Distija, moj ratni drug) priča o mojim [ratnim informatičkim podvizima](http://github.com/hernad/blog/blob/master/articles/25-godina-hardware-software-20100606.markdown).   
 
-Međutim, ako kroz moje radove saznaju da sam čovjek koji to što oni predaju zna, onda to treba uzeti u obzir. I uvrstiti u algoritam konačne ocjene.
+Nastavnici na FIT-u ne mogu znati da se informatikom bavim skoro koliko su oni stari. Pa i da znaju, ko zna kakva je to informatika. Ljudi i trgovinu računarima zovu informatikom.
+
+Međutim, ako kroz moje radove saznaju da nešto dobro znam, onda to treba uzeti u obzir. I uvrstiti u konačnu ocjenu.
 
 ## Za kraj
 
-Ovo je bila jedna krajnje interesantna godina. FIT-ovanje mi je na početku bila jedna velika muka.
+Ovo je bila jedna krajnje interesantna godina. FIT-ovanje mi je na početku predstavljalo jednu velika muka. Mjesecima nakon upisa mi se vrtilo: "Ernade, Ernade što će ti ovo ...". Pa se onda prisjetim [zašto](http://github.com/hernad/blog/blob/master/articles/odakle-ja-na-fitu-20100616.markdown), progutam knedlu i nastavim.
 
 Na kraju se to pretvorilo u jednu avanturu koja sada ima skroz drugi "šmek".
+
 
 ### FIT tutor, Fernala mentor al' oprave
 
@@ -94,6 +102,7 @@ Pošto sam naveo sve koji su zaslužni za uspješno ovogodišnje FIT-ovanje, spo
 
 Ono mi je pomoglo da se izborim sa svojim velikim problemom: [otporom da radim besmislene stvari](http://github.com/hernad/blog/blob/master/articles/uos-koristan-posao-20100614.markdown). 
 
+Providi dragi Allah robovima svojim.
 
 hernad@bring.out.ba
 
