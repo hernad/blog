@@ -16,7 +16,7 @@ A software-a ... praktično ništa !
 
 ## Naš glavni problem: Mi čak i ne znamo da ne znamo
  
-I onda sjetim se knjiga iz informatike za osnovnu školu, [bajgorologije](http://github.com/hernad/blog/blob/master/articles/bajgorologija-ii-polozena.markdown], [ubleharskih priča da mi "Mi u Bosni imamo pregršt pametnih i obrazovanih ljudi, ali nemamo kapitala"](http://github.com/hernad/blog/blob/master/articles/glup-lud-bahat-20100605.markdown).
+I onda sjetim se knjiga iz informatike za osnovnu školu, i neizostavne [bajgorologije](http://github.com/hernad/blog/blob/master/articles/bajgorologija-ii-polozena.markdown], [ubleharskih priča da mi "Mi u Bosni imamo pregršt pametnih i obrazovanih ljudi, ali nemamo kapitala"](http://github.com/hernad/blog/blob/master/articles/glup-lud-bahat-20100605.markdown).
 
 Ljudi moji, koje smo mi neznalice ...
 
