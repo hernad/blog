@@ -91,9 +91,9 @@ Problem ovog drušva, gdje god da zaviriš (nauka, politika, sport) je nedostata
 
 ## Zaključak
 
-E pa stvarno. 
+E pa stvarno ... 
 
-Od software, preko Reisa i bombaša završim za raspredanjem bosanske politike.
+Od software, preko Reisa i bombaša završim sa raspredanjem bosanske politike.
 
 Lud, pa eto ti. 
 
