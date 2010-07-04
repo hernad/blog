@@ -28,7 +28,7 @@ On uočava da tu nešto ne štima, postavlja pitanja, daje prijedloge, analizira
 
 A mi ... naš problem je u tome što ne znamo da pojma nemamo. 
 
-## Ko je kriv
+## Ko je kriv ?
 
 Za našu bijedu su nam krivi uvijek drugi: jednima Srbi, drugima četnici, trećima komunisti, četvrtima Turci i muslimani, petima 'pravi' Hrvati, šestima krivi "Hrvati" koji sebe zovima Bosanci (pa napravi search-replace predhodne teze Hrvati-Srbi), pa onda Bošnjaci koji ne podržavaju Reisa, pa oni koji podržavaju Reisa, pa Vehabije ... Ako čega imamo napretek, to su definitivno **krivci**. A lijepa stvar je u tome da su ti krivci uvijek "onamo oni".
 
