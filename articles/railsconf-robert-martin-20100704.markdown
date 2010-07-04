@@ -77,7 +77,7 @@ To svako može. Rethink počinje od sebe.
 
 Rethinkeru nije cilj da pokaže da njegov protivnik ne valja.
 
-Rethinker se fokusira na **ono što on može** učiniti. On se ne takođe ne boji kaže šta on može učiniti.
+Rethinker se fokusira na **ono što on može** učiniti. On se ne boji reći šta **ne može** učiniti. Pa i po cijenu toga da mu neki papak uskrati dragocjeni glas.
 
 Rethinker ne prodaje ublehe. 
 
