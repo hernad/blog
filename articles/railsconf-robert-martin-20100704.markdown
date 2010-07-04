@@ -56,8 +56,8 @@ Rethink Reise, Rethink Islamska zajednico !
 
 Pošto se ta naša "zatrovana braća", opasana bombama, poziva na časni Qur'an i sunnet Poslanika s.a.v.s., najviše me interesuje kako su kako oni sebi smjestili ove činjenice:
 
-# Poslanik s.a.v.s. je sa mušricima (nevjernicima) pravio ugovor
-# Poslanik s.a.v.s. na takvu deredžu(nivo, stepen) stavljao položaj komšije, da su ashabi mislili da će komšije dobiti udio u nasljedstvu !
+1. Poslanik s.a.v.s. je sa mušricima (nevjernicima) pravio ugovor
+2. Poslanik s.a.v.s. na takvu deredžu(nivo, stepen) stavljao položaj komšije, da su ashabi mislili da će komšije dobiti udio u nasljedstvu !
 
 Neću reći "rethink" bombaši. Za vas je pretpostavljam kasno.
 
