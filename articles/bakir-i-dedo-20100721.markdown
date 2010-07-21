@@ -1,5 +1,5 @@
-Bakir i dedo, 72
-============================
+Bakir i dedo
+============
 
 Datum: 21.07.2010
 
@@ -34,7 +34,7 @@ Bakir je napokon našao mir da pripremi svoj poklon. Ja sam onako "obalješten" 
 
 Prilazio mi je svako malo i tražio: da mu odmotam ljepilo, da mu skinem celofan, da mu prebrojim nekakve karte ... 
 
-Ja sam to sve to odrađivao u polusnu ... Čuo sam kako priča sa dedom i nešto ga ispituje: "Koliko ti sada **tačno** godina imaš ?" 
+Sve sam to odrađivao u polusnu ... Čuo sam kako priča sa dedom na telefon i nešto ga ispituje: "Koliko ti sada **tačno** godina imaš ?" 
   
 Nakon sahat-dva on je svoj poklon završio. 
 
@@ -66,10 +66,10 @@ I mi mu dajemo svoj poklon, a on standardno komentariše sa vrata: "Ma djeco, š
 
 Nakon toga bakirov poklon. E to je već nešto drugo ... Idemo to otvoriti u dnevnoj sobi.
 
-Šta je ustvari Bakirov poklon ?
+Šta je u stvari Bakirov poklon ?
 -------------------------------
 
-Bakir mrda vilicom kada je uzbuđen. E sad ga najednom boli i stomak, to je njegova standardna reakcija na tremu.
+Bakir mrda vilicom. E sad ga još boli i stomak. Njegove standardna reakcija kad ima tremu.
 
 Dedo čita poruku na postit-u: "Dragi dedo ... Bakir". Ma njemu više ništa od toga i ne treba. 
 
@@ -114,7 +114,7 @@ Svi smo bili ubjeđeni da nema tog poklona koji bi dedu "oborio s nogu". Ove god
 
 Od konvencionalnih poklona najbolje ti je kupiti nešto što će se na kraju moći dati unučadima. Kod moje djece je stvar još lakša - ne trebaš im davati, oni sami uzmu :)
 
-
+--------------
 
 (*) Ove tri tačke su bile zastoja u pisanju :). Kako objasniti ljubav prema svoj djeci ?! Taj osjećaj definitivno zaslužuje poseban termin. Dženana voli reći to je jedina bezuslovna ljubav. Meni to ipak nije objašnjenje za koje bih rekao: "E baš tako".
 
