@@ -116,7 +116,7 @@ Od konvencionalnih poklona najbolje ti je kupiti nešto što će se na kraju mo�
 
 --------------
 
-(*) Ove tri tačke su bile zastoja u pisanju :). Kako objasniti ljubav prema svoj djeci ?! Taj osjećaj definitivno zaslužuje poseban termin. Dženana voli reći to je jedina bezuslovna ljubav. Meni to ipak nije objašnjenje za koje bih rekao: "E baš tako".
+(*) Ove tri tačke su rezultat zastoja u pisanju :). Kako objasniti ljubav prema svoj djeci ?! Taj osjećaj definitivno zaslužuje poseban termin. Dženana voli reći to je jedina bezuslovna ljubav. Meni ni to nije objašnjenje za koje bih rekao: "E, baš tako".
 
 (**) Dženana je prokomentarisala kad smo išli u kupovinu "Šta kupiti čovjeku koji samo poklanja, a za sebe nikad ništa ne traži ?". Pričamo naravno u okviru porodičnih odnosa. 
 
