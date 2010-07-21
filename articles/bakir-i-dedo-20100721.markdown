@@ -69,7 +69,7 @@ Nakon toga bakirov poklon. E to je već nešto drugo ... Idemo to otvoriti u dne
 Šta je u stvari Bakirov poklon ?
 -------------------------------
 
-Bakir mrda vilicom. E sad ga još boli i stomak. Njegove standardna reakcija kad ima tremu.
+Bakir mrda vilicom. E sad ga još boli i stomak. Njegove standardne reakcije kad ima tremu.
 
 Dedo čita poruku na postit-u: "Dragi dedo ... Bakir". Ma njemu više ništa od toga i ne treba. 
 
