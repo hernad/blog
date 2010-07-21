@@ -38,7 +38,7 @@ Sve sam to odrađivao u polusnu ... Čuo sam kako priča sa dedom na telefon i n
   
 Nakon sahat-dva on je svoj poklon završio. 
 
-Na vrhu je bila čestitka ispisana na žutom stick-u: "Dedo sretan ti 72 rođendan, Bakir". 
+Na vrhu je bila čestitka ispisana na žutom postit-u: "Dedo sretan ti 72 rođendan, Bakir". 
 
 Ispot svega se nazirala nekakva guta od aluminijske folije i ljepila ... "Ma super", pomislim: "Šta god da je stpao unutra, dedo će biti happy."
 
