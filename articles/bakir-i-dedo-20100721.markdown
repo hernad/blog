@@ -55,7 +55,7 @@ Međutim, Dženana se sa tim nije složila: "Nećemo ni ići ako nema poklona!".
 
 Malo je falilo da kažem: "Dobro, ti nemoj ni ići", ali sam to prešutio jer mi je sljedeća misao bila: "Stvarno si bezveze, tebi je mrsko babi otići kupiti poklon, a tvojoj ženi nije".
 
-I tako mi odosmo u BBI centar. Tamo smo, prema Dženaninom scenariju naravno, napravili jedan miks prirodnih sokova iz badem butika, gurabija iz čokolaterije i sve nam to gospođa u čokolateriji fini spakova u jednu lijepu košaricu. Ddobili smo poklon koje je prošao Dženanin quality control :). Ekstra. Usput, košarica je stvarno super izgledala. 
+I tako mi odosmo u BBI centar. Tamo smo, prema Dženaninom scenariju naravno, napravili jedan miks prirodnih sokova iz badem butika, gurabija iz čokolaterije i sve nam to gospođa u čokolateriji fini spakova u jednu lijepu košaricu. Dobili smo poklon koje je prošao Dženanin quality control :). Ekstra. Usput, košarica je stvarno super izgledala. 
 
 Podjela poklona
 ---------------
