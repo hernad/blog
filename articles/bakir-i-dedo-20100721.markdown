@@ -40,7 +40,7 @@ Nakon sahat-dva on je svoj poklon završio.
 
 Na vrhu je bila čestitka ispisana na žutom stick-u: "Dedo sretan ti 72 rođendan, Bakir". 
 
-Ispot svega se nazirala nekakva guta od aluminijske folije i ljepila ... Ma super pomislim: "Šta god da je stpao unutra, dedo će biti happy."
+Ispot svega se nazirala nekakva guta od aluminijske folije i ljepila ... "Ma super", pomislim: "Šta god da je stpao unutra, dedo će biti happy."
 
 Naš poklon
 ----------
