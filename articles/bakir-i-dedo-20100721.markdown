@@ -106,7 +106,7 @@ After dedo's party
 
 Jutros za kahvom Dženana je prokomentarisala: "Ko će od dede živjeti nakon ovog poklona .... :)". 
 
-Opšte poznata stvar je da svako ko želi sa dedom biti "dobar" mora predano slušati njegove priče o Bakiru.
+Opšte poznata stvar je da svako ko želi sa dedom biti "dobar" mora predano slušati njegove priče o Bakiru. Mogao bih mu predložiti da i on blogira. Pa kad pretjera, čitaoc uvijek prestati sa čitanjem :)
 
 Svi smo bili ubjeđeni da nema tog poklona koji bi dedu "oborio s nogu". Ove godine se to ipak desilo. Dedo je dobio najljepši poklon do sada.
 
