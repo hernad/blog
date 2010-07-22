@@ -43,7 +43,7 @@ Od početka sam objašnjavao servisu da se zahtjevi se rješavaju onim redom koj
 
 Ali, sve bi to u relnim situacijama palo na vodu. Spamerska strategija je pobjeđivala.
 
-Onda sam shvatio da se stvar mora sistemski riješiti. Rješenje je bio [Ugovor o podršci]:(http://www.bring.out.ba/ugovor_bring.out_uzorak.pdf) :
+Onda sam shvatio da se stvar mora sistemski riješiti. Rješenje je bio [Ugovor o podršci](http://www.bring.out.ba/ugovor_bring.out_uzorak.pdf) :
 
  1. ponuditi 3-4 kategorije ugovora, gdje će prioritet imati oni sa većom kategorijom ugovora
  2. znači kol'ko para tol'ko muzike 
