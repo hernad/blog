@@ -128,12 +128,12 @@ Vas je najbolje onda ništa ne pitati ...
 
 Ne naprotiv.
 
-2) Preglednost, potpunost¶
 
 Evo nekih tačaka iz bring.out uputstva radnicima o eksternoj komunikaciji (komunikaciji sa klijentima) #20863:
 
 
-  - 2) U komunikaciji treba drugoj strani odgovoriti na sva pitanja i truditi se da se to izloži što jasnije - preglednije
+  - 2) Preglednost, potpunost
+    - U komunikaciji treba drugoj strani odgovoriti na sva pitanja i truditi se da se to izloži što jasnije - preglednije
   - 3) susretljivost
     - Pridržavanje po tački 2) je preduslov za susretljivost.
     - Međutim, ovo je ipak treba biti posebna stavka.
