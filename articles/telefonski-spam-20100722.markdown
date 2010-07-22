@@ -110,11 +110,11 @@ Ja smatram da to nije tačno.
 
 Iz jednostavnog razloga što je pružanje usluga takvim klijentima objektivno teže i neproporcionalno povećanju cijena usluga koje ja prakticiram. 
 
-Znam da moje kolege više vole obraditi 5 zahtjeva razumnih klijenata nego li ovih posljednjih. A ja cijenu pomnožim maximalno sa 2 :)
+Činjenica je da moje kolege jednostavnije obrade 5 zahtjeva razumnih klijenata nego li jedan ovih posljednjih. A ja cijenu pomnožim najviše sa 2 :)
 
-Što se cijena usluga tiče, ovi posljdenji uvijek više kukaju na cijene, bez obzira da li su one povećane za **spam faktor** ili iste kao da se radi o razumnim klijentima.
+Što se cijena usluga tiče, "spameri" su redovno  najglasniji i kod cijena. I to bez razlike da li su cijene povećane za **spam faktor** ili iste kao razumnih klijenata.
 
-Znači ako te kritikujem, ti meni povećaš cijenu 100% ?
+Znači, ako vas kritikujemi, vi nama povećate cijene ?
 -------------------------------------------------------
 
 Ne. Kritika nije spam. Legitimno pravo kupca je da izrazi nezadovoljstvo uslugom. 
@@ -123,7 +123,7 @@ I nikome radi toga u bring.out nije povećana cijena, ako nije umanjena. Ako je 
 
 Spamiranje je nešto sasvim drugo.
 
-Vas je najbolje onda ništa ne pitati ...
+Vas je najbolje onda ništa ne pitati!
 ----------------------------------------
 
 Ne naprotiv.
