@@ -143,7 +143,7 @@ Evo nekih tačaka iz bring.out uputstva radnicima o eksternoj komunikaciji (komu
     - Ako uprskamo mi to kažemo, ako se ne slažemo sa korisnikom po stvarima bitnim za obje strane mi to kažemo.
   - 8) Laganje je zabranjeno
     - Sjećam se početaka u radu firme. I tada mi je suradnica rekla: hoćeš li da kažem "Direktor je odsutan". Odgovorio sam: "Ne, laganje je zabranjeno u ovoj firmi".
-  - 9) Komunikacija bez prostih riječi¶
+  - 9) Komunikacija bez prostih riječi
     - Čak postoji klauzula u Ugovoru o podršci bring.out da u slučaju da smatra da probleme može rješavati psovkama, ugovor se može odmah prekinuti.
     - Ukoliko se radnik nađe u takvoj situaciji, on bez puno razmišljanja prekida svoju aktivnost.
     - S druge strane, niti u jednoj situaciji radnik ne smije na psovke odgovarati psovkama.
