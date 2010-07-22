@@ -11,13 +11,13 @@ Taj šablon sam prozvao "telefonski spam".
 
 Telefonski spam je strategija koja funkcioniše ovako:
 
-# naklapastiš se na telefon i non-stop zivkaš provajdera (svog davaoca usluga)
-# bez obzira šta ti on rekao, ti ga ne slušaš i ponavljaš svoje zahtjeve
-# kukaš mu kako će svijet propasti ako ti to ne riješiš odmah
-# pa mu još kukaš ..
-# pa ga kudiš ...
-# pa onda opet kukaš ...
-# držiš ga na telefonu do iznemoglosti, sve dok ti ne kaže: "dobro vidjećemo šta možemo učiniti"
+ # naklapastiš se na telefon i non-stop zivkaš provajdera (svog davaoca usluga)
+ # bez obzira šta ti on rekao, ti ga ne slušaš i ponavljaš svoje zahtjeve
+ # kukaš mu kako će svijet propasti ako ti to ne riješiš odmah
+ # pa mu još kukaš ..
+ # pa ga kudiš ...
+ # pa onda opet kukaš ...
+ # držiš ga na telefonu do iznemoglosti, sve dok ti ne kaže: "dobro vidjećemo šta možemo učiniti"
  
 
 Ova zadnja tačka je ključni dio strategije: ako si dovoljno dosadan. uslugu ćeš dobiti preko reda. Provajder će reći: **"Odradi onog dosadnog, samo nam ga skini nam s' vrata"**.
@@ -133,24 +133,24 @@ Ne naprotiv.
 Evo nekih tačaka iz bring.out uputstva radnicima o eksternoj komunikaciji (komunikaciji sa klijentima) #20863:
 
 
-* 2) U komunikaciji treba drugoj strani odgovoriti na sva pitanja i truditi se da se to izloži što jasnije - preglednije
-* 3) susretljivost
-** Pridržavanje po tački 2) je preduslov za susretljivost.
-** Međutim, ovo je ipak treba biti posebna stavka.
-** Bez obzira na korisnikovo znanje i razumjevanje problema naša je obaveza da budemo susretljivi. Da budemo oni koje će korisnik prepoznati kao stranu koja mu želi pomoći i biti na usluzi.
-** Kada mu ne možemo pomoći moramo mu objasniti zašto mu ne možemo pomoći.
-* 7) Mi ne prodajemo ublehe
-** Ako uprskamo mi to kažemo, ako se ne slažemo sa korisnikom po stvarima bitnim za obje strane mi to kažemo.
-* 8) Laganje je zabranjeno
-** Sjećam se početaka u radu firme. I tada mi je suradnica rekla: hoćeš li da kažem "Direktor je odsutan". Odgovorio sam: "Ne, laganje je zabranjeno u ovoj firmi".
-* 9) Komunikacija bez prostih riječi¶
-** Čak postoji klauzula u Ugovoru o podršci bring.out da u slučaju da smatra da probleme može rješavati psovkama, ugovor se može odmah prekinuti.
-** Ukoliko se radnik nađe u takvoj situaciji, on bez puno razmišljanja prekida svoju aktivnost.
-** S druge strane, niti u jednoj situaciji radnik ne smije na psovke odgovarati psovkama.
-* 12) Mi istinski poštujemo i uvažavamo svoje klijente
-** Mi nismo firma u kojoj je dopušteno svom klijentu spustiti slušalicu ili zalupiti vrata radi nesuglasica.
-** Mi istinski poštujemo svoje klijente. Bez obzira na to da li se sa njima slažemo ili ne.
-** Istina je da i od svojih klijenata tražimo isto (tačka 9)).
+ * 2) U komunikaciji treba drugoj strani odgovoriti na sva pitanja i truditi se da se to izloži što jasnije - preglednije
+ * 3) susretljivost
+ ** Pridržavanje po tački 2) je preduslov za susretljivost.
+ ** Međutim, ovo je ipak treba biti posebna stavka.
+ ** Bez obzira na korisnikovo znanje i razumjevanje problema naša je obaveza da budemo susretljivi. Da budemo oni koje će korisnik prepoznati kao stranu koja mu želi pomoći i biti na usluzi.
+ ** Kada mu ne možemo pomoći moramo mu objasniti zašto mu ne možemo pomoći.
+ * 7) Mi ne prodajemo ublehe
+ ** Ako uprskamo mi to kažemo, ako se ne slažemo sa korisnikom po stvarima bitnim za obje strane mi to kažemo.
+ * 8) Laganje je zabranjeno
+ ** Sjećam se početaka u radu firme. I tada mi je suradnica rekla: hoćeš li da kažem "Direktor je odsutan". Odgovorio sam: "Ne, laganje je zabranjeno u ovoj firmi".
+ * 9) Komunikacija bez prostih riječi¶
+ ** Čak postoji klauzula u Ugovoru o podršci bring.out da u slučaju da smatra da probleme može rješavati psovkama, ugovor se može odmah prekinuti.
+ ** Ukoliko se radnik nađe u takvoj situaciji, on bez puno razmišljanja prekida svoju aktivnost.
+ ** S druge strane, niti u jednoj situaciji radnik ne smije na psovke odgovarati psovkama.
+ * 12) Mi istinski poštujemo i uvažavamo svoje klijente
+ ** Mi nismo firma u kojoj je dopušteno svom klijentu spustiti slušalicu ili zalupiti vrata radi nesuglasica.
+ ** Mi istinski poštujemo svoje klijente. Bez obzira na to da li se sa njima slažemo ili ne.
+ ** Istina je da i od svojih klijenata tražimo isto (tačka 9)).
 
 
 Ako neko ima problem sa nama po ovim pitanjima, samo neka samo napiše na moj mail da se ne držimo #20863 tačka ta i ta. 
