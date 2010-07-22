@@ -160,7 +160,7 @@ Freak firma
 
 Po mnogim stvarima mi smo "freak" firma. Ja sam kreator tog "freak" sistema.
 
-Je li ovo stvarno blentav sistem  ? Je li  **pokušaj*** da se poslovanje firme bazira na **otvorenosti**  i **pravičnosti** samo po sebi utopija ?!
+Je li ovo stvarno blentav sistem  ? Je li  **pokušaj** da se poslovanje firme bazira na **otvorenosti**  i **pravičnosti** samo po sebi utopija ?!
 Ako je takva postavka neodrživo ovdje, je li ovo globalno blentav sistem ?
 
 Nemam pojma. Ono što znam jeste da svaki moj naredni korak firmu još više tjera u ovom smjeru. 
