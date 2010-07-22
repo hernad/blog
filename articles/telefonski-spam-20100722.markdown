@@ -11,23 +11,27 @@ Taj šablon sam prozvao "telefonski spam".
 
 Telefonski spam je strategija koja funkcioniše ovako:
 
-# naklapastiš se na telefon i non stop zivkaš davaoca usluga
+# naklapastiš se na telefon i non-stop zivkaš provajdera (svog davaoca usluga)
 # bez obzira šta ti on rekao, ti ga ne slušaš i ponavljaš svoje zahtjeve
-# kukaš mu kako će svijet propasti ako ti to ne riješi
+# kukaš mu kako će svijet propasti ako ti to ne riješiš odmah
 # pa mu još kukaš ..
 # pa ga kudiš ...
-# takođe ga držiš ga na telefonu do iznemoglosti, dok ona druga strana ne kaže: "dobro vidjećemo šta možemo" 
+# pa onda opet kukaš ...
+# držiš ga na telefonu do iznemoglosti, sve dok ti ne kaže: "dobro vidjećemo šta možemo učiniti"
+ 
 
-Ova zadnja tačka je ključni dio strategije: ako si dovoljno dosadan. uslugu ćeš dobiti preko reda. Provajder (davaoc usluga) će reći: **"Odradi onog dosadnog, samo nam ga skini nam s' vrata"**.
+Ova zadnja tačka je ključni dio strategije: ako si dovoljno dosadan. uslugu ćeš dobiti preko reda. Provajder će reći: **"Odradi onog dosadnog, samo nam ga skini nam s' vrata"**.
 
 Tako to mora biti ?
 --------------------
 
-Taj je sistem tako banalan da je prosto nevjerovatno kako on tako uspješno funkcioniše. 
+Taj je sistem tako banalan da je meni fascinantno kako on uspješno funkcioniše. Kažu da je dobar sistem jednostavan sistem. Ali baš ovakva primjena principa jednostavnosti meni nikako u glavu  ne ide :(. 
 
-Odmah na početku rada moje firme uočio sam ovo pravilo: Najbolje usluge dobijaju **najbezobrazniji**, a **NE** oni koji su **razumni**, **uredne platiše** itd. Stvar je funkcionisala upravo po gore opisanom algoritmu.
+Odmah na početku rada moje firme uočio sam da naši klijenti masovno koriste ovu strategijue: Najbolje usluge dobijaju **najbezobrazniji**, a **NE** oni koji su **razumni**, **uredne platiše** itd. 
 
-Serviser primi poziv i krene kuknjava: "Vaki ste naki ste ... Meni je posao stao ... odmah da ste se nacrtali ? Ja sam kupio vaš program a vi tako ... Jedna glava hiljadu jezika ..."
+Stvar je godinama funkcionisala po gore opisanom algoritmu.
+
+Serviser primi poziv i krene kuknjava: "Vaki ste, naki ste ... Meni je posao stao ... odmah da ste se nacrtali ? Ja sam kupio vaš program a vi tako ... Jedna glava hiljadu jezika ..."
 
 Kako je raspored servisa bio na drugim ljudima, spameri su uvijek prvi rješavani.
 
