@@ -169,14 +169,18 @@ U hendek ? **Lahko**.
 
 Ili je ovo neki novi, odličan model poslovanja ? **Teško**. 
  
-Nebitno, je ja u principu i nemam nekog izbora. Siguran sam da bi stvaka druga strategija bila fjasko. Zato što bi bila nesvojstvena meni.
+Nebitno. Kako god se presaberem, ja i nemam nekog izbora. Siguran sam da bi neki zaokret ka konvencionalnom poslovanju bio fjasko sa mnom ovakvim kakav jesam. 
 
 Ne znam dobro slagati, ne znam ljude šarmirati "onako", gnušam se od podmićivanja ... U svim takvim situacijama ponašam se k'o zadnji blećak. 
   
+Sve to nije svojstveno meni, a sve ključne odluke su u mojim rukama. 
 
-Uz sve te moje nesposobnosti prilagođavanja "pravom biznisu", ja sam očigledno i nepopravljivi optimista. 
+Uz sve te moje nesposobnosti prilagođavanja "pravom biznisu", ja sam definitivno i nepopravljivi optimista. 
 
 Ja vjerujem da posao na ovim principima može biti dobar posao.
 
+Pomoći mi nema. Idem ovako, pa dokle stignem. 
 
-hernad@bring.out.ba
+Da mi dragi što prije Allah providi ako griješim.
+
+hernad@bring.out.ba, vođa eksperimenta "bring.out"
