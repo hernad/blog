@@ -160,21 +160,23 @@ Freak firma
 
 Po mnogim stvarima mi smo "freak" firma. Ja sam kreator tog "freak" sistema.
 
-Je li ovo stvarno blentav sistem ili **pokušaj*** da se poslovanje firme bazira na **otvorenosti**  i **pravičnosti** samo po sebi blentavo ?!
-Ako je neodrživo ovdje, je li ovo globalno blentav sistem ?
+Je li ovo stvarno blentav sistem  ? Je li  **pokušaj*** da se poslovanje firme bazira na **otvorenosti**  i **pravičnosti** samo po sebi utopija ?!
+Ako je takva postavka neodrživo ovdje, je li ovo globalno blentav sistem ?
 
 Nemam pojma. Ono što znam jeste da svaki moj naredni korak firmu još više tjera u ovom smjeru. 
 
-U hendek ? Lahko ? Ili je ovo neki novi, odličan model poslovanja ? Teško. 
- 
-Nebitno, ja nastavljam zato jer bi stvaka druga strategija bila fjasko. Jer bi bila nesvojstvena meni i mojim osnovnim principima. 
+U hendek ? **Lahko**.
 
-Jer to nisam ja. Ne znam dobro slagati, ne znam ljude šarmirati, podmićivanje mi je istinski mrsko ... U svim takvim situacijama ponašam se k'o zadnji blećak. 
+Ili je ovo neki novi, odličan model poslovanja ? **Teško**. 
+ 
+Nebitno, je ja u principu i nemam nekog izbora. Siguran sam da bi stvaka druga strategija bila fjasko. Zato što bi bila nesvojstvena meni.
+
+Ne znam dobro slagati, ne znam ljude šarmirati "onako", gnušam se od podmićivanja ... U svim takvim situacijama ponašam se k'o zadnji blećak. 
   
 
 Uz sve te moje nesposobnosti prilagođavanja "pravom biznisu", ja sam očigledno i nepopravljivi optimista. 
 
-Istinski vjerujem da posao na ovim principima može biti dobar posao.
+Ja vjerujem da posao na ovim principima može biti dobar posao.
 
 
 hernad@bring.out.ba
